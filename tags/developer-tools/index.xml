@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer-Tools on GrozRab</title>
+    <link>https://grozrab.ru/tags/developer-tools/</link>
+    <description>Recent content in Developer-Tools on GrozRab</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 13 Jul 2026 03:30:00 -0700</lastBuildDate>
+    <atom:link href="https://grozrab.ru/tags/developer-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git &amp; GitHub Sync Workflow: Seamless Development Across PC and Mac</title>
+      <link>https://grozrab.ru/news/2026/07/git-github-sync-workflow-seamless-development-across-pc-and/</link>
+      <pubDate>Mon, 13 Jul 2026 03:30:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/07/git-github-sync-workflow-seamless-development-across-pc-and/</guid>
+      <description>&lt;p&gt;Developing projects across multiple machines—like a primary Windows desktop and a portable MacBook—requires a clean, reliable synchronization strategy. Relying on cloud storage containers often corrupts local environment states or database locks. Instead, using Git and GitHub provides a structured version control pipeline that keeps your codebase identical on any operating system.&lt;/p&gt;&#xA;&lt;p&gt;This step-by-step guide walks through initializing repositories, syncing secondary nodes, and running a friction-free daily cross-platform development loop.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-initial-codebase-setup-first-device&#34;&gt;The Initial Codebase Setup (First Device)&lt;/h2&gt;&#xA;&lt;p&gt;Execute these steps on the machine where your project files currently live to establish your local history and push it to the cloud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Ultimate New Mac Setup Guide: The Perfect Logical Workflow</title>
+      <link>https://grozrab.ru/news/2026/07/the-ultimate-new-mac-setup-guide-the-perfect-logical/</link>
+      <pubDate>Sun, 12 Jul 2026 04:19:43 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/07/the-ultimate-new-mac-setup-guide-the-perfect-logical/</guid>
+      <description>&lt;h2 id=&#34;the-ultimate-new-mac-setup-guide-the-perfect-logical-workflow&#34;&gt;The Ultimate New Mac Setup Guide: The Perfect Logical Workflow&lt;/h2&gt;&#xA;&lt;p&gt;Setting up a new Mac is an exciting milestone, but configuring it to peak efficiency can be overwhelming. To save you time, we have consolidated, deduplicated, and organized the best setup practices into the ultimate logical workflow.&lt;/p&gt;&#xA;&lt;p&gt;Follow these steps chronologically to transform a fresh out-of-the-box machine into a high-performance workspace.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-initial-out-of-the-box-setup&#34;&gt;1. Initial Out-of-the-Box Setup&lt;/h2&gt;&#xA;&lt;p&gt;Before diving into deep customizations, complete the foundational onboarding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Ultimate PC Apps Blueprint: The Essential Software Toolkit I Always Use</title>
+      <link>https://grozrab.ru/news/2026/05/my-ultimate-pc-apps-blueprint-the-essential-software-toolkit/</link>
+      <pubDate>Sat, 16 May 2026 05:13:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/05/my-ultimate-pc-apps-blueprint-the-essential-software-toolkit/</guid>
+      <description>&lt;p&gt;Every power user needs a foundational software toolkit that transforms raw hardware into a hyper-efficient machine. Over years of building apps, managing digital marketplaces, and editing media, I have dialed in the exact apps that make it onto my storage drives every single time.&lt;/p&gt;&#xA;&lt;p&gt;This curated, deduplicated list breaks down my essential desktop applications into functional categories. Bookmark this page—I will keep this master layout updated as versions change and new tools earn their place.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

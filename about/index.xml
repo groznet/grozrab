@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>О газете «Грозненский рабочий» on GrozRab</title>
+    <link>https://grozrab.ru/about/</link>
+    <description>Recent content in О газете «Грозненский рабочий» on GrozRab</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <atom:link href="https://grozrab.ru/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Наша история</title>
+      <link>https://grozrab.ru/about/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://grozrab.ru/about/history/</guid>
+      <description>&lt;p&gt;The most important concept to understand before creating a template is context, the data passed into each template. The data may be a simple value, or more commonly objects and associated methods.&lt;/p&gt;&#xA;&lt;p&gt;For example, a page template receives a Page object, and the Page object provides methods to return values or perform actions.&lt;/p&gt;&#xA;&lt;p&gt;Current context&#xA;Within a template, the dot (.) represents the current context.&lt;/p&gt;&#xA;&lt;p&gt;In the example above the dot represents the Page object, and we call its Title method to return the title as defined in front matter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Наша миссия и цели</title>
+      <link>https://grozrab.ru/about/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://grozrab.ru/about/mission/</guid>
+      <description>&lt;p&gt;The most important concept to understand before creating a template is context, the data passed into each template. The data may be a simple value, or more commonly objects and associated methods.&lt;/p&gt;&#xA;&lt;p&gt;For example, a page template receives a Page object, and the Page object provides methods to return values or perform actions.&lt;/p&gt;&#xA;&lt;p&gt;Current context&#xA;Within a template, the dot (.) represents the current context.&lt;/p&gt;&#xA;&lt;p&gt;In the example above the dot represents the Page object, and we call its Title method to return the title as defined in front matter.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

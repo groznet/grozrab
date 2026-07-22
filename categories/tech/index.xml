@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on GrozRab</title>
+    <link>https://grozrab.ru/categories/tech/</link>
+    <description>Recent content in Tech on GrozRab</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 13 Jul 2026 03:30:00 -0700</lastBuildDate>
+    <atom:link href="https://grozrab.ru/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git &amp; GitHub Sync Workflow: Seamless Development Across PC and Mac</title>
+      <link>https://grozrab.ru/news/2026/07/git-github-sync-workflow-seamless-development-across-pc-and/</link>
+      <pubDate>Mon, 13 Jul 2026 03:30:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/07/git-github-sync-workflow-seamless-development-across-pc-and/</guid>
+      <description>&lt;p&gt;Developing projects across multiple machines—like a primary Windows desktop and a portable MacBook—requires a clean, reliable synchronization strategy. Relying on cloud storage containers often corrupts local environment states or database locks. Instead, using Git and GitHub provides a structured version control pipeline that keeps your codebase identical on any operating system.&lt;/p&gt;&#xA;&lt;p&gt;This step-by-step guide walks through initializing repositories, syncing secondary nodes, and running a friction-free daily cross-platform development loop.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-initial-codebase-setup-first-device&#34;&gt;The Initial Codebase Setup (First Device)&lt;/h2&gt;&#xA;&lt;p&gt;Execute these steps on the machine where your project files currently live to establish your local history and push it to the cloud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Switching from Windows to Mac: Why Remapping the Fn Key to Command Saves Your Muscle Memory</title>
+      <link>https://grozrab.ru/news/2026/07/switching-from-windows-to-mac-why-remapping-the-fn-key-to/</link>
+      <pubDate>Sun, 12 Jul 2026 04:32:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/07/switching-from-windows-to-mac-why-remapping-the-fn-key-to/</guid>
+      <description>&lt;p&gt;When switching from Windows to macOS, the single biggest challenge for most people is adapting to the keyboard shortcuts.&lt;/p&gt;&#xA;&lt;p&gt;On a Windows keyboard, the primary modifier key is &lt;strong&gt;Control (Ctrl)&lt;/strong&gt;, located at the absolute far left of the bottom row. On a Mac, the primary modifier key is &lt;strong&gt;Command (Cmd)&lt;/strong&gt;, but it is placed right next to the spacebar. To make matters worse, the far-left key on a MacBook layout is actually the &lt;strong&gt;Fn (Function)&lt;/strong&gt; key.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Ultimate New Mac Setup Guide: The Perfect Logical Workflow</title>
+      <link>https://grozrab.ru/news/2026/07/the-ultimate-new-mac-setup-guide-the-perfect-logical/</link>
+      <pubDate>Sun, 12 Jul 2026 04:19:43 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/07/the-ultimate-new-mac-setup-guide-the-perfect-logical/</guid>
+      <description>&lt;h2 id=&#34;the-ultimate-new-mac-setup-guide-the-perfect-logical-workflow&#34;&gt;The Ultimate New Mac Setup Guide: The Perfect Logical Workflow&lt;/h2&gt;&#xA;&lt;p&gt;Setting up a new Mac is an exciting milestone, but configuring it to peak efficiency can be overwhelming. To save you time, we have consolidated, deduplicated, and organized the best setup practices into the ultimate logical workflow.&lt;/p&gt;&#xA;&lt;p&gt;Follow these steps chronologically to transform a fresh out-of-the-box machine into a high-performance workspace.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-initial-out-of-the-box-setup&#34;&gt;1. Initial Out-of-the-Box Setup&lt;/h2&gt;&#xA;&lt;p&gt;Before diving into deep customizations, complete the foundational onboarding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Ultimate PC Apps Blueprint: The Essential Software Toolkit I Always Use</title>
+      <link>https://grozrab.ru/news/2026/05/my-ultimate-pc-apps-blueprint-the-essential-software-toolkit/</link>
+      <pubDate>Sat, 16 May 2026 05:13:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/05/my-ultimate-pc-apps-blueprint-the-essential-software-toolkit/</guid>
+      <description>&lt;p&gt;Every power user needs a foundational software toolkit that transforms raw hardware into a hyper-efficient machine. Over years of building apps, managing digital marketplaces, and editing media, I have dialed in the exact apps that make it onto my storage drives every single time.&lt;/p&gt;&#xA;&lt;p&gt;This curated, deduplicated list breaks down my essential desktop applications into functional categories. Bookmark this page—I will keep this master layout updated as versions change and new tools earn their place.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TailwindCSS Layout &amp; Structure Cheat Sheet</title>
+      <link>https://grozrab.ru/news/2025/07/tailwindcss-layout-structure-cheat-sheet/</link>
+      <pubDate>Fri, 04 Jul 2025 03:14:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2025/07/tailwindcss-layout-structure-cheat-sheet/</guid>
+      <description>&lt;p&gt;A minimalist, high-efficiency reference guide for structuring web layouts with TailwindCSS. This cheat sheet strips away all visual clutter—omitting color, background styling, and decorative utilities—to focus purely on the core essentials required for structural blueprints, structural positioning, grid systems, and responsive design.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-display--box-model&#34;&gt;1. Display &amp;amp; Box Model&lt;/h2&gt;&#xA;&lt;p&gt;Defines how elements behave in the document flow and interact with surrounding components.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;block&lt;/code&gt; — display: block;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;inline-block&lt;/code&gt; — display: inline-block;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;inline&lt;/code&gt; — display: inline;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;flex&lt;/code&gt; — display: flex;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;inline-flex&lt;/code&gt; — display: inline-flex;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;grid&lt;/code&gt; — display: grid;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;hidden&lt;/code&gt; — display: none;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-flexbox-layouts&#34;&gt;2. Flexbox Layouts&lt;/h2&gt;&#xA;&lt;p&gt;Designed for one-dimensional layouts, aligning components smoothly along a single row or column axis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Ultimate Android Battery Optimization Guide: Stop Background Drain</title>
+      <link>https://grozrab.ru/news/2024/12/the-ultimate-android-battery-optimization-guide-stop-drain/</link>
+      <pubDate>Thu, 19 Dec 2024 05:22:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2024/12/the-ultimate-android-battery-optimization-guide-stop-drain/</guid>
+      <description>&lt;p&gt;Modern smartphones are incredibly powerful, but out-of-the-box system configurations often prioritize flashiness over longevity. Background data synchronization, high refresh rates, and active listening services run silently, draining your charge long before the day ends.&lt;/p&gt;&#xA;&lt;p&gt;To take back control of your phone&amp;rsquo;s power, this comprehensive guide organizes the best Android battery-saving techniques into a structured, highly actionable blueprint.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-aggressive-app--data-management&#34;&gt;1. Aggressive App &amp;amp; Data Management&lt;/h2&gt;&#xA;&lt;p&gt;Apps are the primary culprit behind battery drain. Restricting how they behave when you aren&amp;rsquo;t actively looking at them yields the most significant improvements.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

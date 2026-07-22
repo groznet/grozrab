@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on GrozRab</title>
+    <link>https://grozrab.ru/tags/css/</link>
+    <description>Recent content in Css on GrozRab</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 04 Jul 2025 03:14:00 -0700</lastBuildDate>
+    <atom:link href="https://grozrab.ru/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TailwindCSS Layout &amp; Structure Cheat Sheet</title>
+      <link>https://grozrab.ru/news/2025/07/tailwindcss-layout-structure-cheat-sheet/</link>
+      <pubDate>Fri, 04 Jul 2025 03:14:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2025/07/tailwindcss-layout-structure-cheat-sheet/</guid>
+      <description>&lt;p&gt;A minimalist, high-efficiency reference guide for structuring web layouts with TailwindCSS. This cheat sheet strips away all visual clutter—omitting color, background styling, and decorative utilities—to focus purely on the core essentials required for structural blueprints, structural positioning, grid systems, and responsive design.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-display--box-model&#34;&gt;1. Display &amp;amp; Box Model&lt;/h2&gt;&#xA;&lt;p&gt;Defines how elements behave in the document flow and interact with surrounding components.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;block&lt;/code&gt; — display: block;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;inline-block&lt;/code&gt; — display: inline-block;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;inline&lt;/code&gt; — display: inline;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;flex&lt;/code&gt; — display: flex;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;inline-flex&lt;/code&gt; — display: inline-flex;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;grid&lt;/code&gt; — display: grid;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;hidden&lt;/code&gt; — display: none;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-flexbox-layouts&#34;&gt;2. Flexbox Layouts&lt;/h2&gt;&#xA;&lt;p&gt;Designed for one-dimensional layouts, aligning components smoothly along a single row or column axis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

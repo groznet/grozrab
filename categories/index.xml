@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on GrozRab</title>
+    <link>https://grozrab.ru/categories/</link>
+    <description>Recent content in Categories on GrozRab</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 14 Jul 2026 13:10:00 +0200</lastBuildDate>
+    <atom:link href="https://grozrab.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://grozrab.ru/categories/ai/</link>
+      <pubDate>Tue, 14 Jul 2026 13:10:00 +0200</pubDate>
+      <guid>https://grozrab.ru/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>https://grozrab.ru/categories/devops/</link>
+      <pubDate>Tue, 14 Jul 2026 13:10:00 +0200</pubDate>
+      <guid>https://grozrab.ru/categories/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://grozrab.ru/categories/tech/</link>
+      <pubDate>Mon, 13 Jul 2026 03:30:00 -0700</pubDate>
+      <guid>https://grozrab.ru/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorials</title>
+      <link>https://grozrab.ru/categories/tutorials/</link>
+      <pubDate>Mon, 13 Jul 2026 03:30:00 -0700</pubDate>
+      <guid>https://grozrab.ru/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://grozrab.ru/categories/productivity/</link>
+      <pubDate>Sun, 12 Jul 2026 04:32:00 -0700</pubDate>
+      <guid>https://grozrab.ru/categories/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Art</title>
+      <link>https://grozrab.ru/categories/art/</link>
+      <pubDate>Mon, 16 Mar 2026 12:12:53 -0800</pubDate>
+      <guid>https://grozrab.ru/categories/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>https://grozrab.ru/categories/design/</link>
+      <pubDate>Mon, 16 Mar 2026 12:12:53 -0800</pubDate>
+      <guid>https://grozrab.ru/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Communication</title>
+      <link>https://grozrab.ru/categories/communication/</link>
+      <pubDate>Wed, 14 Jan 2026 05:56:00 -0700</pubDate>
+      <guid>https://grozrab.ru/categories/communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://grozrab.ru/categories/web-development/</link>
+      <pubDate>Fri, 04 Jul 2025 03:14:00 -0700</pubDate>
+      <guid>https://grozrab.ru/categories/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design &amp; Asset Management</title>
+      <link>https://grozrab.ru/categories/design--asset-management/</link>
+      <pubDate>Sun, 11 May 2025 05:05:00 -0700</pubDate>
+      <guid>https://grozrab.ru/categories/design--asset-management/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ollama on GrozRab</title>
+    <link>https://grozrab.ru/tags/ollama/</link>
+    <description>Recent content in Ollama on GrozRab</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 14 Jul 2026 13:10:00 +0200</lastBuildDate>
+    <atom:link href="https://grozrab.ru/tags/ollama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Route Local Ollama Models from a Mac Mini M4 to OpenClaw on a Remote VPS</title>
+      <link>https://grozrab.ru/news/2026/07/how-to-route-local-ollama-models-from-a-mac-mini-m4-to-on-a/</link>
+      <pubDate>Tue, 14 Jul 2026 13:10:00 +0200</pubDate>
+      <guid>https://grozrab.ru/news/2026/07/how-to-route-local-ollama-models-from-a-mac-mini-m4-to-on-a/</guid>
+      <description>&lt;p&gt;Running OpenClaw on a remote VPS (like Hostinger) is ideal for bypassing regional blocks on communication channels like Telegram or WhatsApp. However, relying on paid cloud LLM APIs can quickly become expensive.&lt;/p&gt;&#xA;&lt;p&gt;By utilizing an Apple Mac Mini M4 (16GB) at home, you can serve powerful open-source models locally via Ollama and safely expose them to your remote OpenClaw instance using a secure tunnel.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;step-1-expose-your-local-ollama-engine&#34;&gt;Step 1: Expose Your Local Ollama Engine&lt;/h2&gt;&#xA;&lt;p&gt;Because your Hostinger VPS lives on a different network, it cannot see &lt;code&gt;localhost:11434&lt;/code&gt; on your Mac Mini. Use &lt;strong&gt;ngrok&lt;/strong&gt; to create a secure, public tunnel directly to your local Ollama port.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

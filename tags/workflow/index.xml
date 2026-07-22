@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflow on GrozRab</title>
+    <link>https://grozrab.ru/tags/workflow/</link>
+    <description>Recent content in Workflow on GrozRab</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 13 Jul 2026 03:30:00 -0700</lastBuildDate>
+    <atom:link href="https://grozrab.ru/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git &amp; GitHub Sync Workflow: Seamless Development Across PC and Mac</title>
+      <link>https://grozrab.ru/news/2026/07/git-github-sync-workflow-seamless-development-across-pc-and/</link>
+      <pubDate>Mon, 13 Jul 2026 03:30:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/07/git-github-sync-workflow-seamless-development-across-pc-and/</guid>
+      <description>&lt;p&gt;Developing projects across multiple machines—like a primary Windows desktop and a portable MacBook—requires a clean, reliable synchronization strategy. Relying on cloud storage containers often corrupts local environment states or database locks. Instead, using Git and GitHub provides a structured version control pipeline that keeps your codebase identical on any operating system.&lt;/p&gt;&#xA;&lt;p&gt;This step-by-step guide walks through initializing repositories, syncing secondary nodes, and running a friction-free daily cross-platform development loop.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-initial-codebase-setup-first-device&#34;&gt;The Initial Codebase Setup (First Device)&lt;/h2&gt;&#xA;&lt;p&gt;Execute these steps on the machine where your project files currently live to establish your local history and push it to the cloud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Ultimate New Mac Setup Guide: The Perfect Logical Workflow</title>
+      <link>https://grozrab.ru/news/2026/07/the-ultimate-new-mac-setup-guide-the-perfect-logical/</link>
+      <pubDate>Sun, 12 Jul 2026 04:19:43 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2026/07/the-ultimate-new-mac-setup-guide-the-perfect-logical/</guid>
+      <description>&lt;h2 id=&#34;the-ultimate-new-mac-setup-guide-the-perfect-logical-workflow&#34;&gt;The Ultimate New Mac Setup Guide: The Perfect Logical Workflow&lt;/h2&gt;&#xA;&lt;p&gt;Setting up a new Mac is an exciting milestone, but configuring it to peak efficiency can be overwhelming. To save you time, we have consolidated, deduplicated, and organized the best setup practices into the ultimate logical workflow.&lt;/p&gt;&#xA;&lt;p&gt;Follow these steps chronologically to transform a fresh out-of-the-box machine into a high-performance workspace.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-initial-out-of-the-box-setup&#34;&gt;1. Initial Out-of-the-Box Setup&lt;/h2&gt;&#xA;&lt;p&gt;Before diving into deep customizations, complete the foundational onboarding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Simplified Photo &amp; Video Organization: A Clean, High-Efficiency Folder Structure</title>
+      <link>https://grozrab.ru/news/2025/05/simplified-photo-video-organization-a-clean-high-efficiency/</link>
+      <pubDate>Sun, 11 May 2025 05:05:00 -0700</pubDate>
+      <guid>https://grozrab.ru/news/2025/05/simplified-photo-video-organization-a-clean-high-efficiency/</guid>
+      <description>&lt;p&gt;Managing a massive library of photos and videos can quickly turn into a chaotic mess if you do not have a strict, logical directory structure. Whether you are handling personal memories, client marketing assets, e-commerce product imagery, or educational materials, a context-based hierarchy keeps everything easily searchable.&lt;/p&gt;&#xA;&lt;p&gt;This streamlined system organizes media by clear, high-level domains and granular subcategories using obvious, intuitive naming conventions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-master-directory-blueprint&#34;&gt;The Master Directory Blueprint&lt;/h2&gt;&#xA;&lt;p&gt;At the root level, maintain a single, dedicated entry point for all media assets. From there, branch out into clean subdirectories based on specific areas of your life and work.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
