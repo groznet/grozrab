@@ -27,13 +27,49 @@
 
         <!-- Навигация -->
         <nav class="bg-red-700 flex flex-nowrap overflow-x-auto whitespace-nowrap scrollbar-none">
-            <a href="/" class="bg-white text-red-700 font-bold text-sm px-6 py-3 hover:bg-gray-100 inline-block">ГЛАВНАЯ</a>
-            <a href="/news" class="text-white font-bold text-sm px-6 py-3 hover:bg-red-800 inline-block">НОВОСТИ</a>
-            <a href="/categories" class="text-white font-bold text-sm px-6 py-3 hover:bg-red-800 inline-block">РУБРИКИ</a>
-            <a href="/zarina-zubayraeva/" class="text-yellow-300 font-bold text-sm px-6 py-3 hover:bg-red-800 inline-block">ПАМЯТИ ЗАРИНЫ</a>
-            <a href="/gallery" class="text-white font-bold text-sm px-6 py-3 hover:bg-red-800 inline-block">ФОТОГАЛЕРЕЯ</a>
-            <a href="/about" class="text-white font-bold text-sm px-6 py-3 hover:bg-red-800 inline-block">ИСТОРИЯ ИЗДАНИЯ</a>
-            <a href="/contact" class="text-white font-bold text-sm px-6 py-3 hover:bg-red-800 inline-block">КОНТАКТЫ</a>
-        </nav>            
+            {{ $curr := .RelPermalink }}
+
+            {{/* ГЛАВНАЯ - Exact match for homepage */}}
+            {{ $isHome := eq $curr "/" }}
+            <a href="/" class="{{ if $isHome }}bg-white text-red-700{{ else }}text-white hover:bg-red-800{{ end }} font-bold text-sm px-6 py-3 inline-block">
+                ГЛАВНАЯ
+            </a>
+
+            {{/* НОВОСТИ */}}
+            {{ $isNews := and (not $isHome) (hasPrefix $curr "/news") }}
+            <a href="/news" class="{{ if $isNews }}bg-white text-red-700{{ else }}text-white hover:bg-red-800{{ end }} font-bold text-sm px-6 py-3 inline-block">
+                НОВОСТИ
+            </a>
+
+            {{/* РУБРИКИ */}}
+            {{ $isCategories := and (not $isHome) (hasPrefix $curr "/categories") }}
+            <a href="/categories" class="{{ if $isCategories }}bg-white text-red-700{{ else }}text-white hover:bg-red-800{{ end }} font-bold text-sm px-6 py-3 inline-block">
+                РУБРИКИ
+            </a>
+
+            {{/* ПАМЯТИ ЗАРИНЫ */}}
+            {{ $isZarina := and (not $isHome) (hasPrefix $curr "/zarina-zubayraeva") }}
+            <a href="/zarina-zubayraeva/" class="{{ if $isZarina }}bg-white text-red-700{{ else }}text-white hover:bg-red-800{{ end }} font-bold text-sm px-6 py-3 inline-block">
+                ПАМЯТИ ЗАРИНЫ
+            </a>
+
+            {{/* ФОТОГАЛЕРЕЯ */}}
+            {{ $isGallery := and (not $isHome) (hasPrefix $curr "/gallery") }}
+            <a href="/gallery" class="{{ if $isGallery }}bg-white text-red-700{{ else }}text-white hover:bg-red-800{{ end }} font-bold text-sm px-6 py-3 inline-block">
+                ФОТОГАЛЕРЕЯ
+            </a>
+
+            {{/* ИСТОРИЯ ИЗДАНИЯ */}}
+            {{ $isAbout := and (not $isHome) (hasPrefix $curr "/about") }}
+            <a href="/about" class="{{ if $isAbout }}bg-white text-red-700{{ else }}text-white hover:bg-red-800{{ end }} font-bold text-sm px-6 py-3 inline-block">
+                ИСТОРИЯ ИЗДАНИЯ
+            </a>
+
+            {{/* КОНТАКТЫ */}}
+            {{ $isContact := and (not $isHome) (hasPrefix $curr "/contact") }}
+            <a href="/contact" class="{{ if $isContact }}bg-white text-red-700{{ else }}text-white hover:bg-red-800{{ end }} font-bold text-sm px-6 py-3 inline-block">
+                КОНТАКТЫ
+            </a>
+        </nav>          
     </div>
 </header>
