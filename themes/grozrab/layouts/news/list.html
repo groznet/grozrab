@@ -1,0 +1,123 @@
+{{ define "main" }}
+
+<h1 class="text-red-700 font-bold text-2xl md:text-3xl font-serif mb-6 uppercase tracking-tight border-b-2 border-red-700 pb-2">
+    {{ .Title | default "Архив всех публикаций" }}
+</h1>
+
+<!-- Blog Posts Stack -->
+<div class="space-y-6">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 5 }}
+    {{ range $paginator.Pages }}
+    
+    {{/* Dynamic Remote/Local Image Selection */}}
+    {{ $imgSrc := "" }}
+
+    {{/* 1. Try Remote gallery.json */}}
+    {{ $galleryJson := printf "%sgallery.json" .File.Dir }}
+    {{ if fileExists $galleryJson }}
+        {{ $gData := unmarshal (readFile $galleryJson) }}
+        {{ $imgSrc = $gData.featured_image }}
+    {{ end }}
+
+    {{/* 2. Fallback to Local Bundle if remote JSON isn't present */}}
+    {{ if not $imgSrc }}
+        {{ $featuredImg := .Resources.GetMatch "{featured,cover,main,index}*.{jpg,jpeg,png,webp,gif,avif,svg}" }}
+        {{ $anyImg := index (.Resources.ByType "image") 0 }}
+
+        {{ if $featuredImg }}
+            {{ $imgSrc = $featuredImg.RelPermalink }}
+        {{ else if $anyImg }}
+            {{ $imgSrc = $anyImg.RelPermalink }}
+        {{ else if .Params.image }}
+            {{ $imgSrc = .Params.image | relURL }}
+        {{ end }}
+    {{ end }}
+
+    <article class="flex flex-col sm:flex-row gap-4 pb-6 border-b border-gray-200">
+        {{ if $imgSrc }}
+        <a href="{{ .RelPermalink }}" class="w-full sm:w-48 h-36 flex-shrink-0">
+            <img src="{{ $imgSrc }}" alt="{{ .Title }}" class="w-full h-full object-cover border border-gray-300 hover:opacity-90 transition-opacity">
+        </a>
+        {{ else }}
+        <div class="w-full sm:w-48 h-36 bg-gray-200 flex-shrink-0 border border-gray-300 flex items-center justify-center text-xs text-gray-400">
+            Нет фото
+        </div>
+        {{ end }}
+
+        <div class="flex flex-col justify-between flex-grow">
+            <div>
+                {{ with .Params.category }}
+                <span class="text-xs font-bold text-red-700 uppercase tracking-wider block mb-1">{{ . }}</span>
+                {{ else }}
+                    {{ with .Params.categories }}
+                    <span class="text-xs font-bold text-red-700 uppercase tracking-wider block mb-1">{{ index . 0 }}</span>
+                    {{ end }}
+                {{ end }}
+
+                <h3 class="text-gray-900 font-bold text-lg font-serif leading-snug hover:text-red-700 transition-colors">
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+                <p class="mt-2 text-sm text-gray-700 leading-relaxed text-justify line-clamp-3">
+                    {{ .Summary | plainify }}
+                </p>
+            </div>
+            <span class="text-xs text-gray-500 mt-2">{{ .Date.Format "02 января 2006" }}</span>
+        </div>
+    </article>
+    {{ end }}
+</div>
+
+<!-- Pagination Component -->
+{{ $paginator := .Paginator }}
+{{ if gt $paginator.TotalPages 1 }}
+<nav class="flex items-center justify-between sm:justify-center space-x-1 sm:space-x-2 mt-10">
+    <div class="flex sm:hidden items-center justify-between w-full">
+        {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}" class="px-3 py-2 border border-gray-300 rounded text-gray-600 hover:bg-gray-100 text-sm font-medium">&larr; Назад</a>
+        {{ else }}
+            <span class="px-3 py-2 border border-gray-200 rounded text-gray-300 text-sm font-medium cursor-not-allowed">&larr; Назад</span>
+        {{ end }}
+
+        <span class="text-xs text-gray-500 font-medium">
+            {{ $paginator.PageNumber }} из {{ $paginator.TotalPages }}
+        </span>
+
+        {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}" class="px-3 py-2 border border-gray-300 rounded text-gray-600 hover:bg-gray-100 text-sm font-medium">Вперед &rarr;</a>
+        {{ else }}
+            <span class="px-3 py-2 border border-gray-200 rounded text-gray-300 text-sm font-medium cursor-not-allowed">Вперед &rarr;</span>
+        {{ end }}
+    </div>
+
+    <div class="hidden sm:flex items-center space-x-2">
+        {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}" class="px-3 py-2 border border-gray-300 rounded text-gray-600 hover:bg-gray-100 text-sm font-medium">&larr; Назад</a>
+        {{ end }}
+
+        {{ $adjacent := 2 }}
+        {{ range $paginator.Pagers }}
+            {{ $pageNum := .PageNumber }}
+            {{ $currNum := $paginator.PageNumber }}
+            {{ $total := $paginator.TotalPages }}
+
+            {{ $show := or (eq $pageNum 1) (eq $pageNum $total) (and (ge $pageNum (sub $currNum $adjacent)) (le $pageNum (add $currNum $adjacent))) }}
+            {{ $dotsBefore := eq $pageNum (sub $currNum (add $adjacent 1)) }}
+            {{ $dotsAfter := eq $pageNum (add $currNum (add $adjacent 1)) }}
+
+            {{ if $show }}
+                <a href="{{ .URL }}" class="px-3 py-2 border rounded text-sm font-medium {{ if eq . $paginator }}border-red-700 bg-red-700 text-white font-bold{{ else }}border-gray-300 text-gray-600 hover:bg-gray-100{{ end }}">
+                    {{ $pageNum }}
+                </a>
+            {{ else if or $dotsBefore $dotsAfter }}
+                <span class="px-2 py-2 text-gray-400 text-sm font-medium select-none">&hellip;</span>
+            {{ end }}
+        {{ end }}
+
+        {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}" class="px-3 py-2 border border-gray-300 rounded text-gray-600 hover:bg-gray-100 text-sm font-medium">Вперед &rarr;</a>
+        {{ end }}
+    </div>
+</nav>
+{{ end }}
+
+{{ end }}

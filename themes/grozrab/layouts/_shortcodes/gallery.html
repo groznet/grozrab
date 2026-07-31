@@ -1,0 +1,20 @@
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 my-6">
+    {{ $files := readDir "themes/grozrab/static/assets/images/gallery" }}
+    {{ range $index, $file := $files }}
+        {{ if and (not .IsDir) (or (hasSuffix .Name ".jpg") (hasSuffix .Name ".JPG") (hasSuffix .Name ".jpeg")) }}
+        <div class="border border-gray-200 p-2 bg-gray-50 flex flex-col">
+            <div class="overflow-hidden bg-gray-200 aspect-[4/3] border border-gray-300 cursor-pointer" onclick="document.getElementById('modal-{{ $index }}').showModal()">
+                <img src="/assets/images/gallery/{{ .Name }}" alt="Галерея" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
+            </div>
+
+            <!-- Expand Lightbox Modal -->
+            <dialog id="modal-{{ $index }}" class="p-0 border-0 rounded bg-transparent backdrop:bg-black/80 max-w-4xl max-h-[90vh] outline-none" onclick="if (event.target === this) this.close()">
+                <div class="relative flex flex-col items-center justify-center p-2">
+                    <button onclick="document.getElementById('modal-{{ $index }}').close()" class="absolute top-4 right-4 text-white bg-black/60 hover:bg-black rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold border border-white/20 z-10">&times;</button>
+                    <img src="/assets/images/gallery/{{ .Name }}" alt="Галерея" class="max-w-full max-h-[85vh] object-contain rounded border border-gray-700">
+                </div>
+            </dialog>
+        </div>
+        {{ end }}
+    {{ end }}
+</div>

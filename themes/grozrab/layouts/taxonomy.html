@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+<h1 class="text-red-700 font-bold text-2xl md:text-3xl font-serif mb-6 uppercase tracking-tight border-b-2 border-red-700 pb-2">
+    Навигация по темам
+</h1>
+
+{{ if .Content }}
+  <div class="prose max-w-none text-gray-600 mb-8">
+    {{ .Content }}
+  </div>
+{{ end }}
+
+<!-- Section 1: Categories Grid -->
+{{ with .Site.Taxonomies.categories }}
+<section class="mb-10">
+    <h2 class="text-gray-900 font-bold text-lg font-serif mb-4 uppercase tracking-wide border-l-4 border-blue-800 pl-3">
+        Основные рубрики
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        {{ range .ByCount }}
+        <a href="{{ .Page.RelPermalink }}" class="group border border-gray-200 p-4 bg-gray-50 hover:bg-white hover:border-red-700 transition-all flex justify-between items-center">
+            <div>
+                <h3 class="font-bold text-base text-gray-900 group-hover:text-red-700 transition-colors font-serif">
+                    {{ .Page.Title }}
+                </h3>
+                {{ with .Page.Description }}
+                <p class="text-xs text-gray-500 mt-1">{{ . }}</p>
+                {{ else }}
+                <p class="text-xs text-gray-500 mt-1">Материалы и публикации по теме "{{ .Page.Title }}"</p>
+                {{ end }}
+            </div>
+            <span class="bg-gray-200 text-gray-700 group-hover:bg-red-700 group-hover:text-white transition-colors text-xs font-bold px-2.5 py-1 rounded">
+                {{ .Count }}
+            </span>
+        </a>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+
+<!-- Section 2: Tags Cloud -->
+{{ with .Site.Taxonomies.tags }}
+<section>
+    <h2 class="text-gray-900 font-bold text-lg font-serif mb-4 uppercase tracking-wide border-l-4 border-blue-800 pl-3">
+        Все теги
+    </h2>
+    <div class="flex flex-wrap gap-2 p-4 border border-gray-200 bg-gray-50/50 rounded">
+        {{ range .ByCount }}
+        <a href="{{ .Page.RelPermalink }}" class="px-3 py-1.5 bg-white border border-gray-300 text-xs font-medium rounded text-gray-700 hover:border-red-700 hover:text-red-700 transition-colors">
+            #{{ .Page.Title }} ({{ .Count }})
+        </a>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+
+{{ end }}

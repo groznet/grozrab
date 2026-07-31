@@ -1,0 +1,116 @@
+{{ define "main" }}
+
+<!-- Breadcrumbs & Meta -->
+<div class="flex flex-wrap items-center gap-2 text-xs text-gray-500 mb-4">
+    <a href="/" class="hover:text-red-700">Главная</a>
+    <span>&bull;</span>
+    {{ with .Params.categories }}
+        <a href="{{ "categories/" | relLangURL }}{{ index . 0 | urlize }}/" class="hover:text-red-700">
+            {{ index . 0 }}
+        </a>
+    {{ else }}
+        <a href="/posts/" class="hover:text-red-700">Публикации</a>
+    {{ end }}
+    <span>&bull;</span>
+    <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-gray-400 normal-case">
+        {{ .Date.Format "02 января 2006" }}
+    </time>
+</div>
+
+<article class="prose max-w-none">
+    <!-- Title Structure -->
+    <h1 class="text-red-700 font-bold text-2xl leading-tight font-serif uppercase tracking-tight mb-4">
+        {{ .Title }}
+    </h1>
+
+    {{/* Load Remote Gallery metadata if available */}}
+    {{ $galleryJson := printf "%sgallery.json" .File.Dir }}
+    {{ $gData := dict }}
+    {{ if fileExists $galleryJson }}
+        {{ $gData = unmarshal (readFile $galleryJson) }}
+    {{ end }}
+
+    <!-- Featured Image Resolution -->
+    {{ $mainImgSrc := "" }}
+
+    {{ if $gData.featured_image }}
+        {{ $mainImgSrc = $gData.featured_image }}
+    {{ else }}
+        {{ $mainImg := .Resources.GetMatch "{featured,cover,main,index}*.{jpg,jpeg,png,webp,gif,avif,svg}" }}
+        {{ if not $mainImg }}
+            {{ $mainImg = index (.Resources.ByType "image") 0 }}
+        {{ end }}
+
+        {{ if $mainImg }}
+            {{ $mainImgSrc = $mainImg.RelPermalink }}
+        {{ else if .Params.image }}
+            {{ $mainImgSrc = .Params.image | relURL }}
+        {{ end }}
+    {{ end }}
+
+    {{ if $mainImgSrc }}
+    <div class="my-6 border border-gray-300 p-2 bg-gray-50">
+        <img src="{{ $mainImgSrc }}" alt="{{ .Title }}" class="w-full h-auto object-cover">
+        {{ with .Params.image_caption }}
+            <p class="text-xs text-gray-600 mt-2 italic text-center">{{ . }}</p>
+        {{ else }}
+            {{ with .Description }}
+                <p class="text-xs text-gray-600 mt-2 italic text-center">{{ . }}</p>
+            {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Dynamic Content Paragraphs -->
+    <div class="space-y-4 text-base leading-relaxed text-justify text-gray-900 font-normal">
+        {{ .Content }}
+    </div>
+
+    <!-- Image Gallery Section -->
+    {{ if $gData.images }}
+        {{/* 1. Remote Gallery Rendering */}}
+        <div class="mt-8 pt-6 border-t border-gray-200">
+            <h3 class="text-lg font-bold text-gray-900 font-serif mb-4 uppercase tracking-tight">Галерея</h3>
+            <div class="grid grid-cols-2 sm:grid-cols-3 gap-4">
+                {{ range $gData.images }}
+                <a href="{{ $gData.remote_base_url }}{{ . }}" target="_blank" class="block border border-gray-300 p-1 bg-gray-50 hover:opacity-90 transition-opacity">
+                    <img src="{{ $gData.remote_base_url }}{{ . }}" alt="{{ $.Title }}" class="w-full h-32 object-cover">
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    {{ else }}
+        {{/* 2. Local Fallback Gallery Rendering */}}
+        {{ $allImages := .Resources.ByType "image" }}
+        {{ if gt (len $allImages) 1 }}
+        <div class="mt-8 pt-6 border-t border-gray-200">
+            <h3 class="text-lg font-bold text-gray-900 font-serif mb-4 uppercase tracking-tight">Галерея</h3>
+            <div class="grid grid-cols-2 sm:grid-cols-3 gap-4">
+                {{ range $allImages }}
+                    {{ if ne .RelPermalink $mainImgSrc }}
+                    <a href="{{ .RelPermalink }}" target="_blank" class="block border border-gray-300 p-1 bg-gray-50 hover:opacity-90 transition-opacity">
+                        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full h-32 object-cover">
+                    </a>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    {{ end }}
+</article>
+
+<!-- Social Share / Action buttons -->
+<div class="mt-8 pt-4 border-t border-gray-200 flex flex-wrap items-center justify-between gap-4">
+    {{ with .Params.categories }}
+        <a href="{{ "categories/" | relLangURL }}{{ index . 0 | urlize }}/" class="text-sm font-bold text-red-700 hover:underline">
+            &larr; Назад в раздел
+        </a>
+    {{ else }}
+        <a href="javascript:history.back()" class="text-sm font-bold text-red-700 hover:underline">&larr; Назад</a>
+    {{ end }}
+    <button onclick="window.print()" class="text-xs bg-gray-100 hover:bg-gray-200 text-gray-700 font-bold px-4 py-2 border border-gray-300 rounded uppercase tracking-wider">
+        Версия для печати
+    </button>
+</div>
+
+{{ end }}

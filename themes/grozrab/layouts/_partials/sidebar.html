@@ -1,0 +1,48 @@
+<aside class="w-full lg:w-[380px] bg-blue-50 px-4 py-6 border-t lg:border-t-0 lg:border-l border-blue-100">
+    <h2 class="text-blue-900 font-bold text-lg mb-4 uppercase">НОВОСТИ САЙТА</h2>
+
+    <div class="space-y-5">
+
+    {{ $latestNews := first 9 (where .Site.RegularPages "Section" "news") }}
+    {{ range $latestNews }}
+        
+        {{ $img := .Resources.GetMatch "*.{jpg,jpeg,png,webp}" }}
+        {{ $imgSrc := "/assets/images/post-placeholder.png" }}
+        {{ if $img }}
+            {{ $imgSrc = $img.RelPermalink }}
+        {{ else if .Params.image }}
+            {{ $imgSrc = .Params.image | relURL }}
+        {{ end }}
+
+        <div class="flex gap-3">
+            {{ if $imgSrc }}
+            <a href="{{ .RelPermalink }}" class="w-24 h-20 flex-shrink-0">
+                <img src="{{ $imgSrc }}" alt="{{ .Title }}" class="w-full h-full object-cover border border-gray-300 hover:opacity-90 transition-opacity">
+            </a>
+            {{ else }}
+            <div class="w-24 h-20 bg-gray-200 flex-shrink-0 border border-gray-300 flex items-center justify-center text-[10px] text-gray-400">
+                Нет фото
+            </div>
+            {{ end }}
+
+            <div class="flex flex-col justify-between overflow-hidden">
+                <div>
+                    <h4 class="font-bold text-sm text-gray-900 leading-snug hover:text-red-700 transition-colors line-clamp-2">
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </h4>
+                    <p class="text-xs mt-1 text-gray-700 line-clamp-2">
+                        {{ .Summary | plainify }}
+                    </p>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+    
+    <div class="mt-8 pt-4 border-t border-blue-200 text-center">
+        <a href="/news/" class="inline-block bg-blue-900 text-white font-bold text-sm px-6 py-2 rounded hover:bg-blue-800 transition-colors uppercase tracking-wide">
+            Все новости архива &rarr;
+        </a>
+    </div>
+
+    </div>
+</aside>

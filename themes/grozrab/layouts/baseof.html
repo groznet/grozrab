@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Грозненский Рабочий - Официальный сайт редакции</title>
+    <script src="/assets/js/tailwind.js"></script>
+
+    <!-- Google Fonts: Montserrat & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        heading: ['Montserrat', 'sans-serif'],
+                        body: ['Inter', 'sans-serif'],
+                    },
+                    container: {
+                        center: true,
+                        padding: '1rem',
+                        screens: {
+                            'DEFAULT': '1280px',
+                        },
+                    },
+                    colors: {
+                        // Add your project custom colors here
+                    }
+                }
+            }
+        }   
+    </script>
+    
+</head>
+<body class="bg-[#e8e4da] bg-[url('/assets/images/header-sec-bg-repeat.png')] bg-repeat-x font-body text-gray-800">
+    
+  <!-- Top bar -->
+  <div class="bg-white border-b-2 border-blue-800 py-2 text-center">
+    <p class="text-xs sm:text-sm font-bold tracking-wide">
+      ОФИЦИАЛЬНЫЙ САЙТ РЕДАКЦИИ ГРОЗНЕНСКИЙ РАБОЧИЙ - WWW.grozrab.ru
+    </p>
+  </div>
+
+  <!-- Page container -->
+  <div class="mx-auto bg-white shadow-md">
+
+    <!-- Header -->
+    {{ partial "header.html" . }}
+
+    <!-- Main content -->
+    <div>
+
+        <div class="container flex flex-col lg:flex-row">
+            <!-- Main column changes width dynamically based on sidebar presence -->
+            <main class="flex-1 py-6 p-0 md:pr-4 {{ if .Params.hide_sidebar }}w-full{{ else }}lg:w-3/4{{ end }}">
+                {{ block "main" . }}{{ end }}
+            </main>
+
+            <!-- Sidebar only renders if not explicitly hidden -->
+            {{ if not .Params.hide_sidebar }}
+                {{ partial "sidebar.html" . }}
+            {{ end }}
+        </div>
+
+    </div>
+
+    {{ partial "footer.html" . }}
+
+  </div>
+
+</body>
+</html>

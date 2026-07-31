@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<h1 class="text-red-700 font-bold text-2xl md:text-3xl font-serif mb-6 uppercase tracking-tight border-b-2 border-red-700 pb-2">
+    О газете «Грозненский рабочий»
+</h1>
+
+<!-- Historical Image Placeholder -->
+<div class="mb-6 border border-gray-300 p-2 bg-gray-50">
+    <img src="/assets/images/team.jpg" alt="История газеты Грозненский Рабочий" class="w-full h-auto object-cover">
+    <p class="text-xs text-gray-600 mt-2 italic text-center">Газета «Грозненский рабочий» издается с 1917 года и является старейшим печатным органом Чеченской Республики.</p>
+</div>
+
+<div class="space-y-4 text-base leading-relaxed text-justify">
+    <p>
+        <strong class="text-red-700">«Грозненский рабочий»</strong> — это старейшая общественно-политическая газета Чеченской Республики, основанная в марте 1917 года. На протяжении более чем вековой истории издание отражало ключевые этапы становления, развития, трагических испытаний и возрождения нашего региона.
+    </p>
+    <p>
+        В советский период газета являлась главным печатным органом Чечено-Ингушской АССР, выходила огромными тиражами и заслужила признание далеко за пределами республики благодаря высокому профессионализму корреспондентов, глубокой аналитике и принципиальной журналистской позиции. Коллектив авторов всегда стремился быть на острие самых актуальных событий, поднимая острые социальные, экономические и культурные вопросы.
+    </p>
+    
+    <blockquote class="border-l-4 border-red-700 pl-4 my-6 italic bg-gray-50 p-3 rounded text-gray-700">
+        «Журналисты нашей редакции прошли через самые сложные исторические вехи, сохраняя верность профессиональному долгу и принципам честной, открытой и объективной журналистики в интересах общества.»
+    </blockquote>
+
+    <h2 class="text-gray-900 font-bold text-xl font-serif mt-6 mb-3 uppercase tracking-tight border-b border-gray-200 pb-1">Современность и миссия</h2>
+    <p>
+        Сегодня информационное агентство и официальный сайт редакции <a href="http://www.grozrab.ru" class="text-blue-800 hover:underline font-semibold">grozrab.ru</a> продолжают лучшие традиции классической печатной прессы в цифровом формате. Мы оперативно освещаем ключевые события внутренней жизни Чеченской Республики, вопросы восстановления культурного наследия, развития регионов и социальной поддержки граждан.
+    </p>
+    <p>
+        На страницах издания регулярно выходят интервью с ведущими деятелями культуры, науки и спорта, аналитические материалы о социально-экономических преобразованиях, а также уникальные исторические очерки о выдающихся земляках, внесших весомый вклад в историю республики.
+    </p>
+</div>
+
+<!-- Dynamic Nested Child Pages Block -->
+{{ with .Pages }}
+    <div class="mt-10 pt-6 border-t-2 border-gray-200">
+        <h2 class="text-gray-900 font-bold text-xl font-serif mb-4 uppercase tracking-tight border-b border-gray-200 pb-1">
+            Дополнительно
+        </h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {{ range . }}
+                <a href="{{ .RelPermalink }}" class="block p-4 border border-gray-200 rounded bg-gray-50 hover:bg-white hover:border-red-700 hover:shadow-sm transition-all">
+                    <h3 class="text-red-700 font-bold text-base font-serif uppercase">{{ .Title }}</h3>
+                    {{ with .Summary }}
+                        <p class="text-xs text-gray-600 mt-1 line-clamp-2">{{ . | plainify }}</p>
+                    {{ end }}
+                </a>
+            {{ end }}
+        </div>
+    </div>
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div class="max-w-6xl mx-auto py-6">
+    <!-- Header Card -->
+    <div class="flex flex-col sm:flex-row items-center sm:items-start gap-6 bg-gray-50 border border-gray-300 p-6 rounded-md mb-8">
+        {{ $img := .Resources.GetMatch "*.{jpg,jpeg,png,webp}" }}
+        {{ $imgSrc := "" }}
+        {{ if $img }}
+            {{ $imgSrc = $img.RelPermalink }}
+        {{ else if .Params.image }}
+            {{ $imgSrc = .Params.image | relURL }}
+        {{ else }}
+            {{ $imgSrc = "/assets/images/zarina-zubayraeva.jpg" }}
+        {{ end }}
+
+        <img src="{{ $imgSrc }}" alt="{{ .Title }}" class="w-40 h-52 object-cover border border-gray-300 shadow-sm flex-shrink-0">
+        
+        <div>
+            <span class="text-xs font-bold text-red-700 uppercase tracking-widest block mb-1">Светлая память</span>
+            <h1 class="text-2xl sm:text-3xl font-bold font-serif text-gray-900 mb-2">{{ .Title }}</h1>
+            {{ with .Params.subtitle }}
+                <p class="text-sm font-semibold text-gray-600 mb-4">{{ . }}</p>
+            {{ else }}
+                <p class="text-sm font-semibold text-gray-600 mb-4">Журналист, редактор газеты «Грозненский рабочий»</p>
+            {{ end }}
+            
+            {{ with .Description }}
+                <p class="text-sm leading-relaxed text-gray-700">{{ . }}</p>
+            {{ end }}
+        </div>
+    </div>
+
+    <!-- Markdown Content -->
+    <div class="space-y-4 text-base leading-relaxed text-justify text-gray-900 font-normal prose max-w-none">
+        {{ .Content }}
+    </div>
+</div>
+{{ end }}
