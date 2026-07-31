@@ -6,12 +6,29 @@
     {{ $latestNews := first 9 (where .Site.RegularPages "Section" "news") }}
     {{ range $latestNews }}
         
-        {{ $img := .Resources.GetMatch "*.{jpg,jpeg,png,webp}" }}
-        {{ $imgSrc := "/assets/images/post-placeholder.png" }}
-        {{ if $img }}
-            {{ $imgSrc = $img.RelPermalink }}
-        {{ else if .Params.image }}
-            {{ $imgSrc = .Params.image | relURL }}
+        {{ $imgSrc := "" }}
+
+        {{/* 1. Remote gallery.json */}}
+        {{ $galleryJson := printf "%sgallery.json" .File.Dir }}
+        {{ if fileExists $galleryJson }}
+            {{ $gData := unmarshal (readFile $galleryJson) }}
+            {{ $imgSrc = $gData.featured_image }}
+        {{ end }}
+
+        {{/* 2. Fallbacks for local bundle or frontmatter */}}
+        {{ if not $imgSrc }}
+            {{ $featuredImg := .Resources.GetMatch "{featured,cover,main,index}*.{jpg,jpeg,png,webp,gif,avif,svg}" }}
+            {{ $anyImg := index (.Resources.ByType "image") 0 }}
+
+            {{ if $featuredImg }}
+                {{ $imgSrc = $featuredImg.RelPermalink }}
+            {{ else if $anyImg }}
+                {{ $imgSrc = $anyImg.RelPermalink }}
+            {{ else if .Params.image }}
+                {{ $imgSrc = .Params.image | absURL }}
+            {{ else }}
+                {{ $imgSrc = "/assets/images/post-placeholder.png" | absURL }}
+            {{ end }}
         {{ end }}
 
         <div class="flex gap-3">
