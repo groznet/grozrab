@@ -1,10 +1,15 @@
 ---
-title: "Актуальные вопросы чеченской письменности..."
-slug: 'aktualnye-voprosy-chechenskoi-pismennosti'
+categories:
+- История
 date: 2021-12-06
-categories: 
-  - "Общие новости"
-coverImage: "письменность.jpg"
+slug: aktualnye-voprosy-chechenskoi-pismennosti
+tags:
+- Академия наук ЧР
+- Чечня
+- чеченская письменность
+- 1920-1930-е годы
+- XIX век
+title: Актуальные вопросы чеченской письменности...
 ---
 
 ... обсудили в Академии наук ЧР.

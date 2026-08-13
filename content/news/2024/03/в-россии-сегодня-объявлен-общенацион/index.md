@@ -1,7 +1,15 @@
 ---
-title: "В России объявлен общенациональный траур"
-slug: 'v-rossii-obiavlen-obshchenatsionalnyi-traur'
+categories:
+- Происшествия
 date: 2024-03-24
+slug: v-rossii-obiavlen-obshchenatsionalnyi-traur
+tags:
+- общенациональный траур
+- теракты
+- Крокус сити холл
+- потери жизни
+- Владимир Путин
+title: В России объявлен общенациональный траур
 ---
 
 24.03.2024

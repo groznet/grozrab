@@ -1,9 +1,15 @@
 ---
-title: "Вышел в свет первый частотный словарь чеченского языка"
-slug: 'vyshel-v-svet-pervyi-chastotnyi-slovar-chechenskogo-iazyka'
+categories:
+- Культура
 date: 2024-01-28
-categories: 
-  - "Главные новости"
+slug: vyshel-v-svet-pervyi-chastotnyi-slovar-chechenskogo-iazyka
+tags:
+- чеченский язык
+- Грозный
+- Академия наук ЧР
+- словарь
+- язык
+title: Вышел в свет первый частотный словарь чеченского языка
 ---
 
 26.01.2024 

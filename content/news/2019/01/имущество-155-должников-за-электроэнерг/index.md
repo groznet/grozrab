@@ -1,10 +1,15 @@
 ---
-title: "Должников \"Чеченэнерго\" наказали арестами, ограничением, удержаниями"
-slug: 'dolzhnikov-chechenenergo-nakazali-arestami-ogranicheniem'
+categories:
+- Экономика
 date: 2019-01-29
-categories: 
-  - "Общие новости"
-coverImage: "должники-за-электроэнергию.jpg"
+slug: dolzhnikov-chechenenergo-nakazali-arestami-ogranicheniem
+tags:
+- Чеченэнерго
+- ЧР
+- электроэнергия
+- задолженность
+- судебные приставы
+title: Должников "Чеченэнерго" наказали арестами, ограничением, удержаниями
 ---
 
 Со злостных неплательщиков взыскали более 140 млн. руб.

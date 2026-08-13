@@ -1,10 +1,16 @@
 ---
-title: "12 сентября в Москве пройдут Дни культуры Чеченской Республики"
-slug: '12-sentiabria-v-moskve-proidut-dni-kultury-chechenskoi'
+categories:
+- Культура
 date: 2018-09-10
-categories: 
-  - "Общие новости"
-coverImage: "Dni_kul_tury_CHechenskoiy_Respubliki_12_sentyabrya_g.Moskva_w1200_h800-1.jpg"
+slug: 12-sentiabria-v-moskve-proidut-dni-kultury-chechenskoi
+tags:
+- Чечня
+- Грозный
+- Министерство культуры Чеченской Республики
+- Государственный ансамбль танца "Вайнах"
+- концерт
+- культура
+title: 12 сентября в Москве пройдут Дни культуры Чеченской Республики
 ---
 
 Организатором мероприятий является Министерство культуры Чеченской Республики.

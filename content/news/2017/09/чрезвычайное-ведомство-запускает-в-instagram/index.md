@@ -1,10 +1,15 @@
 ---
-title: "Чрезвычайное ведомство запускает в Instagram проект «Дети-герои»"
-slug: 'chrezvychainoe-vedomstvo-zapuskaet-v-instagram-proekt-deti'
+categories:
+- Общество
 date: 2017-09-14
-categories: 
-  - "Общие новости"
-coverImage: "дети-герои.jpg"
+slug: chrezvychainoe-vedomstvo-zapuskaet-v-instagram-proekt-deti
+tags:
+- МЧС России
+- Чечня
+- патриотическое воспитание
+- дети-герои
+- чрезвычайные происшествия
+title: Чрезвычайное ведомство запускает в Instagram проект «Дети-герои»
 ---
 
 Пресс-служба Главного управления МЧС России по Чеченской Республике запускает в сети Instagram новый проект «Дети-герои» (https://www.instagram.com/deti\_geroi/), направленный на патриотическое воспитание подрастающего поколения России.

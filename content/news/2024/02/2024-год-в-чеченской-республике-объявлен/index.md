@@ -1,7 +1,15 @@
 ---
-title: "2024-й в Чеченской Республике объявлен Годом истории"
-slug: '2024-i-v-chechenskoi-respublike-obiavlen-godom-istorii'
+categories:
+- Культура
 date: 2024-02-02
+slug: 2024-i-v-chechenskoi-respublike-obiavlen-godom-istorii
+tags:
+- Чечня
+- Год истории
+- культурное наследие
+- архитектура
+- исторические памятники
+title: 2024-й в Чеченской Республике объявлен Годом истории
 ---
 
 # 02 февраля

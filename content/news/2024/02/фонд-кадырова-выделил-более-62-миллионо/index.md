@@ -1,9 +1,14 @@
 ---
-title: "Фонд Кадырова выделил более 62 миллионов рублей нуждающимся семьям Грозного"
-slug: 'fond-kadyrova-vydelil-bolee-62-millionov-rublei-semiam'
+categories:
+- Социальная сфера
 date: 2024-02-09
-categories: 
-  - "Главные новости"
+slug: fond-kadyrova-vydelil-bolee-62-millionov-rublei-semiam
+tags:
+- Грозный
+- благотворительность
+- нуждающиеся семьи
+- СВО
+title: Фонд Кадырова выделил более 62 миллионов рублей нуждающимся семьям Грозного
 ---
 
 09.02.2024 

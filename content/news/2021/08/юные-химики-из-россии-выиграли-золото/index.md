@@ -1,10 +1,15 @@
 ---
-title: "Юные химики из России выиграли золото японской олимпиады"
-slug: 'iunye-khimiki-iz-rossii-vyigrali-zoloto-iaponskoi-olimpiady'
+categories:
+- Образование
 date: 2021-08-06
-categories: 
-  - "Общие новости"
-coverImage: "химики.jpg"
+slug: iunye-khimiki-iz-rossii-vyigrali-zoloto-iaponskoi-olimpiady
+tags:
+- МГУ имени М.В. Ломоносова
+- химия
+- олимпиада
+- Москва
+- Екатеринбург
+title: Юные химики из России выиграли золото японской олимпиады
 ---
 
 <figure>

@@ -1,9 +1,14 @@
 ---
-title: "Ифтар вошел в список нематериального культурного наследия ЮНЕСКО"
-slug: 'iftar-voshel-v-spisok-nematerialnogo-kulturnogo-naslediia'
+categories:
+- Культура
 date: 2023-12-11
-categories: 
-  - "Общие новости"
+slug: iftar-voshel-v-spisok-nematerialnogo-kulturnogo-naslediia
+tags:
+- ЮНЕСКО
+- Рамадан
+- Ифтар
+- нематериальное наследие
+title: Ифтар вошел в список нематериального культурного наследия ЮНЕСКО
 ---
 
 # 11 декабря 2023г.

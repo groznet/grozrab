@@ -1,10 +1,14 @@
 ---
-title: "Туризм и COVID-19 несовместимы"
-slug: 'turizm-i-covid-19-nesovmestimy'
+categories:
+- Туризм
 date: 2020-08-16
-categories: 
-  - "Общие новости"
-coverImage: "ггг.jpg"
+slug: turizm-i-covid-19-nesovmestimy
+tags:
+- Чечня
+- COVID-19
+- туризм
+- въезд
+title: Туризм и COVID-19 несовместимы
 ---
 
 Чеченская Республика остается закрытой для туристов, сообщила пресс-служба Министерстве ЧР по туризму 14 августа.

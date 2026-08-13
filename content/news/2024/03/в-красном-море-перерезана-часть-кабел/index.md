@@ -1,7 +1,15 @@
 ---
-title: "В Красном море перерезана часть кабелей глобального интернета"
-slug: 'v-krasnom-more-pererezana-chast-kabelei-globalnogo-interneta'
+categories:
+- Технологии
 date: 2024-03-05
+slug: v-krasnom-more-pererezana-chast-kabelei-globalnogo-interneta
+tags:
+- Интернет
+- Кабели связи
+- Красное море
+- Транспорт
+- HGC Global Communications Limited
+title: В Красном море перерезана часть кабелей глобального интернета
 ---
 
 Повреждены именно кабели связи, которые соединяют Европу, Азию и Африку. Об этом сообщает Газета.Ру со ссылкой на компанию HGC Global Communications Limited.

@@ -1,9 +1,16 @@
 ---
-title: "В Грозном открыли выставку Народного художника ЧР Саид-Эмина Эльмирзаева"
-slug: 'v-groznom-otkryli-vystavku-narodnogo-khudozhnika-chr-said'
+categories:
+- Культура
 date: 2024-04-18
-categories: 
-  - "Главные новости"
+slug: v-groznom-otkryli-vystavku-narodnogo-khudozhnika-chr-said
+tags:
+- Грозный
+- Чечня
+- Саид-Эмин Эльмирзаев
+- художник
+- выставка
+- Кавказские горы
+title: В Грозном открыли выставку Народного художника ЧР Саид-Эмина Эльмирзаева
 ---
 
 18.04.2024 

@@ -1,9 +1,14 @@
 ---
-title: "Хутмат Кадырова запустила флешмоб в поддержку бездомных животных"
-slug: 'khutmat-kadyrova-zapustila-fleshmob-v-podderzhku-bezdomnykh'
+categories:
+- Животные
 date: 2024-03-11
-categories: 
-  - "Главные новости"
+slug: khutmat-kadyrova-zapustila-fleshmob-v-podderzhku-bezdomnykh
+tags:
+- бездомные животные
+- флешмоб
+- пожертвование
+- корм для животных
+title: Хутмат Кадырова запустила флешмоб в поддержку бездомных животных
 ---
 
 # 10:11, 11 марта  2024

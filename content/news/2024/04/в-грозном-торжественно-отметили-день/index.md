@@ -1,7 +1,16 @@
 ---
-title: "В столице ЧР торжественно отметили День чеченского языка"
-slug: 'v-stolitse-chr-torzhestvenno-otmetili-den-chechenskogo'
+categories:
+- Культура
 date: 2024-04-26
+slug: v-stolitse-chr-torzhestvenno-otmetili-den-chechenskogo
+tags:
+- Чечня
+- чеченский язык
+- День чеченского языка
+- Рамзан Кадыров
+- Грозный
+- национальные традиции
+title: В столице ЧР торжественно отметили День чеченского языка
 ---
 
 # 25 апреля 2024г

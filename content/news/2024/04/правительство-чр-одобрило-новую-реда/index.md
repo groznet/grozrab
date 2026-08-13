@@ -1,9 +1,15 @@
 ---
-title: "Правительство ЧР одобрило новую редакцию программы развития горных территорий"
-slug: 'pravitelstvo-chr-odobrilo-novuiu-redaktsiiu-programmy'
+categories:
+- Экономика
 date: 2024-04-05
-categories: 
-  - "Общие новости"
+slug: pravitelstvo-chr-odobrilo-novuiu-redaktsiiu-programmy
+tags:
+- Чечня
+- Правительство ЧР
+- инвестиционные проекты
+- горные территории
+- Минэкономтерразвития
+title: Правительство ЧР одобрило новую редакцию программы развития горных территорий
 ---
 
 # 05 апреля 2024г.

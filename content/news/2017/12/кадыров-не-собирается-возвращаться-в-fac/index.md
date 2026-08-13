@@ -1,10 +1,16 @@
 ---
-title: "Кадыров не собирается возвращаться в Facebook"
-slug: 'kadyrov-ne-sobiraetsia-vozvrashchatsia-v-facebook'
+categories:
+- Технологии
 date: 2017-12-30
-categories: 
-  - "Общие новости"
-coverImage: "1511610779.jpg"
+slug: kadyrov-ne-sobiraetsia-vozvrashchatsia-v-facebook
+tags:
+- Кадыров
+- Facebook
+- Грозный
+- Чечня
+- аккаунт
+- социальные сети
+title: Кадыров не собирается возвращаться в Facebook
 ---
 
 "Заявляю, что принципиально не собираюсь возвращаться в Facebook… Еще раз повторяю — меня лично нет в Facebook!" — написал Кадыров в Telegram 29 декабря.

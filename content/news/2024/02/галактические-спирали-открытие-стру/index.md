@@ -1,9 +1,16 @@
 ---
-title: "Галактические спирали: открытие структуры джета М87"
-slug: 'galakticheskie-spirali-otkrytie-struktury-dzheta-m87'
+categories:
+- Наука
 date: 2024-02-29
-tags: 
-  - "наука"
+slug: galakticheskie-spirali-otkrytie-struktury-dzheta-m87
+tags:
+- галактические спирали
+- М87
+- черная дыра
+- астрофизика
+- плазма
+- VLBA
+title: 'Галактические спирали: открытие структуры джета М87'
 ---
 
 29.02.2024

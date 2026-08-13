@@ -1,10 +1,16 @@
 ---
-title: "Из Грозного в Мюнхен открылось прямое авиасообщение"
-slug: 'iz-groznogo-v-miunkhen-otkrylos-priamoe-aviasoobshchenie'
+categories:
+- Транспорт
 date: 2017-06-16
-categories: 
-  - "Общие новости"
-coverImage: "грозный-мюнхен.jpg"
+slug: iz-groznogo-v-miunkhen-otkrylos-priamoe-aviasoobshchenie
+tags:
+- Грозный
+- Мюнхен
+- авиасообщение
+- UTair
+- Боинг 737
+- Германия
+title: Из Грозного в Мюнхен открылось прямое авиасообщение
 ---
 
 Первый рейс по маршруту Грозный — Мюнхен состоялся 15 июня. Жители региона смогут добираться до Европы самолетом Boeing 737 авиакомпании UTair. Рейсы выполняются еженедельно, по четвергам.

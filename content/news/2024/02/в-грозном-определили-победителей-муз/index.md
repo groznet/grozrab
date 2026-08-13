@@ -1,9 +1,15 @@
 ---
-title: "В ЧР определили победителей музыкальной премии «Песня года-2023»"
-slug: 'v-chr-opredelili-pobeditelei-muzykalnoi-premii-pesnia-goda'
+categories:
+- Культура
 date: 2024-02-16
-categories: 
-  - "Главные новости"
+slug: v-chr-opredelili-pobeditelei-muzykalnoi-premii-pesnia-goda
+tags:
+- Чечня
+- Грозный
+- музыкальная премия
+- эстрада
+- Валид Гадаев
+title: В ЧР определили победителей музыкальной премии «Песня года-2023»
 ---
 
 # 16 февраля 2024г.

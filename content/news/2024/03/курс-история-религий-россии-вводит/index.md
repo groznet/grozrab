@@ -1,8 +1,14 @@
 ---
-title: "Курс «История религий России» вводится во всех вузах РФ"
-slug: 'kurs-istoriia-religii-rossii-vvoditsia-vo-vsekh-vuzakh-rf'
+categories:
+- Образование
 date: 2024-03-09
-coverImage: "19171ee85c80480878a186b06b8e65af_w900_h600.jpg"
+slug: kurs-istoriia-religii-rossii-vvoditsia-vo-vsekh-vuzakh-rf
+tags:
+- Минобрнауки РФ
+- История религий России
+- вузы
+- образовательная деятельность
+title: Курс «История религий России» вводится во всех вузах РФ
 ---
 
 09.03.2024 20:33

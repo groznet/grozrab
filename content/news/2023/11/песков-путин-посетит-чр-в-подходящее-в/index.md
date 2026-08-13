@@ -1,9 +1,14 @@
 ---
-title: "Песков: Путин посетит ЧР в подходящее время"
-slug: 'peskov-putin-posetit-chr-v-podkhodiashchee-vremia'
+categories:
+- Политика
 date: 2023-11-22
-categories: 
-  - "Главные новости"
+slug: peskov-putin-posetit-chr-v-podkhodiashchee-vremia
+tags:
+- Владимир Путин
+- Чеченская Республика
+- Дмитрий Песков
+- Президент России
+title: 'Песков: Путин посетит ЧР в подходящее время'
 ---
 
 22.11.2023 

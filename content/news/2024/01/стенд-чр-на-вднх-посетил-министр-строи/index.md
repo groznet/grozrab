@@ -1,9 +1,15 @@
 ---
-title: "Стенд ЧР на ВДНХ посетил министр строительства и ЖКХ РФ"
-slug: 'stend-chr-na-vdnkh-posetil-ministr-stroitelstva-i-zhkkh-rf'
+categories:
+- Строительство
 date: 2024-01-21
-categories: 
-  - "Главные новости"
+slug: stend-chr-na-vdnkh-posetil-ministr-stroitelstva-i-zhkkh-rf
+tags:
+- Чечня
+- ВДНХ
+- строительная отрасль
+- ЖКХ
+- министр строительства и ЖКХ РФ
+title: Стенд ЧР на ВДНХ посетил министр строительства и ЖКХ РФ
 ---
 
 # 20 января 2024г.

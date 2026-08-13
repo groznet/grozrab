@@ -1,10 +1,16 @@
 ---
-title: "Продолжается набор в школу на границе Мьянмы и Бангладеш"
-slug: 'prodolzhaetsia-nabor-v-shkolu-na-granitse-mianmy-i'
+categories:
+- Образование
 date: 2018-01-03
-categories: 
-  - "Общие новости"
-coverImage: "1_f6b613cdcf330a6e-1.jpeg"
+slug: prodolzhaetsia-nabor-v-shkolu-na-granitse-mianmy-i
+tags:
+- Глава ЧР
+- Ахмат-Хаджи Кадыров
+- Мьянма
+- Бангладеш
+- школа
+- беженцы
+title: Продолжается набор в школу на границе Мьянмы и Бангладеш
 ---
 
 Об этом на своей странице в Mylistory рассказал Рамзан Кадыров.

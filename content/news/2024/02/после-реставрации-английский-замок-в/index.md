@@ -1,9 +1,15 @@
 ---
-title: "После реставрации Английский замок в Грозном обставят сохранившейся мебелью"
-slug: 'posle-restavratsii-angliiskii-zamok-v-groznom-obstaviat'
+categories:
+- Культура
 date: 2024-02-15
-categories: 
-  - "Главные новости"
+slug: posle-restavratsii-angliiskii-zamok-v-groznom-obstaviat
+tags:
+- Грозный
+- Английский замок
+- реставрация
+- памятник архитектуры
+- мебель
+title: После реставрации Английский замок в Грозном обставят сохранившейся мебелью
 ---
 
 ![](https://ci21392.tw1.ru/wp-content/uploads/2024/02/английский-замок-300x177.jpg)

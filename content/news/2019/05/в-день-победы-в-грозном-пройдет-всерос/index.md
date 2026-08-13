@@ -1,10 +1,14 @@
 ---
-title: "В День Победы в Грозном пройдет Всероссийская акция «Бессмертный полк»"
-slug: 'v-den-pobedy-v-groznom-proidet-vserossiiskaia-aktsiia-polk'
+categories:
+- История
 date: 2019-05-08
-categories: 
-  - "Общие новости"
-coverImage: "бессмертный-полк.jpg"
+slug: v-den-pobedy-v-groznom-proidet-vserossiiskaia-aktsiia-polk
+tags:
+- Грозный
+- Чечня
+- Великая Отечественная война
+- Бессмертный полк
+title: В День Победы в Грозном пройдет Всероссийская акция «Бессмертный полк»
 ---
 
 # Жители Чечни присоединятся ко Всероссийской акции «Бессмертный полк»

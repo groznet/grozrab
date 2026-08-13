@@ -1,9 +1,15 @@
 ---
-title: "Вышел в свет очередной том «ГРАММАТИКИ ЧЕЧЕНСКОГО ЯЗЫКА» А.И. Халидова"
-slug: 'vyshel-v-svet-ocherednoi-tom-grammatiki-chechenskogo-iazyka'
+categories:
+- Культура
 date: 2024-04-04
-categories: 
-  - "Главные новости"
+slug: vyshel-v-svet-ocherednoi-tom-grammatiki-chechenskogo-iazyka
+tags:
+- Чечня
+- грамматика
+- язык
+- филология
+- А.И. Халидов
+title: Вышел в свет очередной том «ГРАММАТИКИ ЧЕЧЕНСКОГО ЯЗЫКА» А.И. Халидова
 ---
 
 ![](https://ci21392.tw1.ru/wp-content/uploads/2024/04/грамматика-192x300.jpg)![](https://anchr.ru/wp-content/uploads/2024/03/5555555555555555555555.jpg)

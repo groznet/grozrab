@@ -1,10 +1,15 @@
 ---
-title: "На высокогорном озере Кезеной-Ам появится горнолыжный курорт"
-slug: 'na-vysokogornom-ozere-kezenoi-am-poiavitsia-gornolyzhnyi'
+categories:
+- Туризм
 date: 2018-09-24
-categories: 
-  - "Общие новости"
-coverImage: "кезеной-ам.jpg"
+slug: na-vysokogornom-ozere-kezenoi-am-poiavitsia-gornolyzhnyi
+tags:
+- Чечня
+- Кезеной-Ам
+- горнолыжный курорт
+- инфраструктура
+- Северный Кавказ
+title: На высокогорном озере Кезеной-Ам появится горнолыжный курорт
 ---
 
 Проект предусматривает французские инвестиции в создание инфраструктуры.

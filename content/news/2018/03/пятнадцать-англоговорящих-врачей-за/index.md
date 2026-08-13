@@ -1,10 +1,15 @@
 ---
-title: "Пятнадцать англоговорящих врачей закрепят за сборной Египта в ходе чемпионата мира по футболу."
-slug: 'piatnadtsat-anglogovoriashchikh-vrachei-zakrepiat-za-sbornoi'
+categories:
+- Спорт
 date: 2018-03-02
-categories: 
-  - "Общие новости"
-coverImage: "ae0bfa2bebdca4c5fcc7d7ae3408959802c88f48.jpg"
+slug: piatnadtsat-anglogovoriashchikh-vrachei-zakrepiat-za-sbornoi
+tags:
+- Грозный
+- Египет
+- чемпионат мира по футболу
+- медицина
+title: Пятнадцать англоговорящих врачей закрепят за сборной Египта в ходе чемпионата
+  мира по футболу.
 ---
 
 Об этом сообщает ТАСС со ссылкой на министра здравоохранения ЧР Эльхана Сулейманова.

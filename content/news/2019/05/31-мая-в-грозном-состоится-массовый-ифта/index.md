@@ -1,10 +1,14 @@
 ---
-title: "31 мая в Грозном состоится массовый ифтар"
-slug: '31-maia-v-groznom-sostoitsia-massovyi-iftar'
+categories:
+- Общество
 date: 2019-05-28
-categories: 
-  - "Общие новости"
-coverImage: "массовый-ифтар.jpeg"
+slug: 31-maia-v-groznom-sostoitsia-massovyi-iftar
+tags:
+- Грозный
+- Чечня
+- ифтар
+- мусульмане
+title: 31 мая в Грозном состоится массовый ифтар
 ---
 
 **По традиции ифтар пройдет на центральной площади столицы.**

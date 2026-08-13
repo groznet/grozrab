@@ -1,10 +1,15 @@
 ---
-title: "Европейская Академия моделей объявляет кастинг!"
-slug: 'evropeiskaia-akademiia-modelei-obiavliaet-kasting'
+categories:
+- Культура
 date: 2018-05-03
-categories: 
-  - "Общие новости"
-coverImage: "IMG_20180426_023302_052-1.jpg"
+slug: evropeiskaia-akademiia-modelei-obiavliaet-kasting
+tags:
+- Чечня
+- мода
+- красота
+- кастинг
+- Италия
+title: Европейская Академия моделей объявляет кастинг!
 ---
 
 Европейская Академия Моделей( European Model Academy)  одна из лучших Академий  в Fashion мире .

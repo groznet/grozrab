@@ -1,10 +1,15 @@
 ---
-title: "В Грозном открылся VI Международный Форум СМИ Северного Кавказа"
-slug: 'v-groznom-otkrylsia-vi-mezhdunarodnyi-forum-smi-severnogo'
+categories:
+- Общество
 date: 2018-12-05
-categories: 
-  - "Общие новости"
-coverImage: "СМИ-ФОРУМ.jpg"
+slug: v-groznom-otkrylsia-vi-mezhdunarodnyi-forum-smi-severnogo
+tags:
+- Грозный
+- Северный Кавказ
+- СМИ
+- журналистика
+- форум
+title: В Грозном открылся VI Международный Форум СМИ Северного Кавказа
 ---
 
 Сегодня, 5 декабря, в ателье The local г. Грозного начал работу VI Международный Форум СМИ Северного Кавказа.

@@ -1,9 +1,15 @@
 ---
-title: "Завершился чемпионат СКФО по робототехнике"
-slug: 'zavershilsia-chempionat-skfo-po-robototekhnike'
+categories:
+- Технологии
 date: 2024-03-03
-categories: 
-  - "Главные новости"
+slug: zavershilsia-chempionat-skfo-po-robototekhnike
+tags:
+- робототехника
+- Кванториум
+- техническое творчество
+- образование
+- соревнования
+title: Завершился чемпионат СКФО по робототехнике
 ---
 
 03.03.2024 16:40

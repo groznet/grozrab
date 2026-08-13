@@ -1,12 +1,16 @@
 ---
-title: "Настоятелям христианских храмов ЧР подарили автомобили"
-slug: 'nastoiateliam-khristianskikh-khramov-chr-podarili-avtomobili'
+categories:
+- Религия
 date: 2024-02-13
-tags: 
-  - "общество"
+slug: nastoiateliam-khristianskikh-khramov-chr-podarili-avtomobili
+tags:
+- Чечня
+- христианство
+- православие
+- храмы
+- общественный фонд
+title: Настоятелям христианских храмов ЧР подарили автомобили
 ---
-
- 
 
 ![](https://ci21392.tw1.ru/wp-content/uploads/2024/02/в-чечне-20-тысяч-христиан-4-300x169.jpg)13 февраля 2024г.
 

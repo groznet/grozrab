@@ -1,10 +1,15 @@
 ---
-title: "В чеченском языке установят единые правила написания"
-slug: 'v-chechenskom-iazyke-ustanoviat-edinye-pravila-napisaniia'
+categories:
+- Культура
 date: 2019-05-20
-categories: 
-  - "Общие новости"
-coverImage: "язык-2-1.jpg"
+slug: v-chechenskom-iazyke-ustanoviat-edinye-pravila-napisaniia
+tags:
+- чеченский язык
+- орфография
+- словарь
+- ЧР
+- языковеды
+title: В чеченском языке установят единые правила написания
 ---
 
 _**По словам экспертов, главной преградой на пути развития чеченского языка является отсутствие единых норм и правил его написания.**_

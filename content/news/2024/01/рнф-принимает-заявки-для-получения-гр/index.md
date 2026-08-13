@@ -1,7 +1,15 @@
 ---
-title: "РНФ объявил конкурс научных исследований для молодых ученых"
-slug: 'rnf-obiavil-konkurs-nauchnykh-issledovanii-dlia-molodykh'
+categories:
+- Наука
 date: 2024-01-31
+slug: rnf-obiavil-konkurs-nauchnykh-issledovanii-dlia-molodykh
+tags:
+- Российский научный фонд
+- молодые ученые
+- научно-технологическая сфера
+- исследования
+- гранты
+title: РНФ объявил конкурс научных исследований для молодых ученых
 ---
 
 29.01.2024

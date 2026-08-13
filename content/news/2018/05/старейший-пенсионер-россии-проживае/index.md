@@ -1,10 +1,15 @@
 ---
-title: "Старейший пенсионер России проживает в Чеченской Республике"
-slug: 'stareishii-pensioner-rossii-prozhivaet-v-chechenskoi'
+categories:
+- Общество
 date: 2018-05-17
-categories: 
-  - "Общие новости"
-coverImage: "FullSizeRender_-1-_w1200_h800.jpg"
+slug: stareishii-pensioner-rossii-prozhivaet-v-chechenskoi
+tags:
+- Чечня
+- пенсионер
+- Братское
+- Великая Отечественная война
+- 1944 год
+title: Старейший пенсионер России проживает в Чеченской Республике
 ---
 
 _**Самому старому пенсионеру России на данный момент исполнилось 128 лет. Это жительница Чечни.**_

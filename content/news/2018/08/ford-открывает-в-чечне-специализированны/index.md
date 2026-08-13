@@ -1,10 +1,15 @@
 ---
-title: "Ford открывает в Чечне специализированный центр"
-slug: 'ford-otkryvaet-v-chechne-spetsializirovannyi-tsentr'
+categories:
+- Бизнес
 date: 2018-08-26
-categories: 
-  - "Общие новости"
-coverImage: "форд.jpg"
+slug: ford-otkryvaet-v-chechne-spetsializirovannyi-tsentr
+tags:
+- Ford
+- Чечня
+- Грозный
+- автомобильный бизнес
+- сервисное обслуживание
+title: Ford открывает в Чечне специализированный центр
 ---
 
 Автоконцерн Ford откроет в столице Чечни специализированный центр. Он обеспечит качественное сервисное и гарантийное обслуживание для владельцев этой марки машин в республике.

@@ -1,13 +1,16 @@
 ---
-title: "Польша категорически против беженцев из Северной Африки и Ближнего Востока"
-slug: 'polsha-kategoricheski-protiv-bezhentsev-iz-severnoi-afriki-i'
+categories:
+- Политика
 date: 2018-03-08
-categories: 
-  - "Общие новости"
-coverImage: "chechenec-nezakonno-perepravil-iz-polshi-v-frg-30-zemlyakov-1-1-1.jpg"
+slug: polsha-kategoricheski-protiv-bezhentsev-iz-severnoi-afriki-i
+tags:
+- Евросоюз
+- миграция
+- Польша
+- Северная Африка
+- Ближний Восток
+title: Польша категорически против беженцев из Северной Африки и Ближнего Востока
 ---
-
- 
 
 Премьер-министр Польши Матеуш Моравецкий заявил на Брюссельском форуме 8 марта о выполнении обязательств перед Евросоюзом в сфере миграции, поскольку страна приняла мигрантов из Чечни и с Украины.
 

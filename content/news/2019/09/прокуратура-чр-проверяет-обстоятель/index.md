@@ -1,10 +1,14 @@
 ---
-title: "Республиканская прокуратура проверяет обстоятельства возгорания в ТРЦ"
-slug: 'respublikanskaia-prokuratura-proveriaet-obstoiatelstva-v'
+categories:
+- Происшествия
 date: 2019-09-20
-categories: 
-  - "Общие новости"
-coverImage: "пожарники-в-гранд-парке.jpg"
+slug: respublikanskaia-prokuratura-proveriaet-obstoiatelstva-v
+tags:
+- Грозный
+- Торгово-развлекательный центр
+- Пожар
+- МЧС
+title: Республиканская прокуратура проверяет обстоятельства возгорания в ТРЦ
 ---
 
 Республиканский надзорный орган проводит проверку после пожара в торгово-развлекательном центре "Гранд Парк" в Грозном. Об этом сообщается на странице надзорного органа в социальной сети [Instagram](https://www.instagram.com/p/B2mqMJPgCFd/).

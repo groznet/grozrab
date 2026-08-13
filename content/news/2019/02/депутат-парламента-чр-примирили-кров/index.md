@@ -1,10 +1,15 @@
 ---
-title: "Законодатель примирил кровников, враждовавших 45 лет"
-slug: 'zakonodatel-primiril-krovnikov-vrazhdovavshikh-45-let'
+categories:
+- Общество
 date: 2019-02-04
-categories: 
-  - "Общие новости"
-coverImage: "примирение-кровников.jpg"
+slug: zakonodatel-primiril-krovnikov-vrazhdovavshikh-45-let
+tags:
+- Чечня
+- Шали
+- Парламент ЧР
+- примирение
+- семейные конфликты
+title: Законодатель примирил кровников, враждовавших 45 лет
 ---
 
 ## Процедура примирения состоялась в городе Шали.

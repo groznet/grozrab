@@ -1,9 +1,15 @@
 ---
-title: "Открытые дни археологии 2023"
-slug: 'otkrytye-dni-arkheologii-2023'
+categories:
+- Культура
 date: 2024-03-02
-categories: 
-  - "Общие новости"
+slug: otkrytye-dni-arkheologii-2023
+tags:
+- археология
+- история
+- памятники
+- лекции
+- музейные коллекции
+title: Открытые дни археологии 2023
 ---
 
 Анонс

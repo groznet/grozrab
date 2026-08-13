@@ -1,10 +1,15 @@
 ---
-title: "Завершилась реставрация Хачаройской боевой башни"
-slug: 'zavershilas-restavratsiia-khacharoiskoi-boevoi-bashni'
+categories:
+- Культура
 date: 2018-09-25
-categories: 
-  - "Общие новости"
-coverImage: "восстановлена-хачаройская-башня.png"
+slug: zavershilas-restavratsiia-khacharoiskoi-boevoi-bashni
+tags:
+- Хачаройская боевая башня
+- Ведучи
+- Итум-Калинский район
+- XIV век
+- XVI век
+title: Завершилась реставрация Хачаройской боевой башни
 ---
 
 _**В селе Ведучи Итум-Калинского района завершилась реставрация Хачаройской боевой башни.**_

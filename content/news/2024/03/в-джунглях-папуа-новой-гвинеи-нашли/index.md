@@ -1,9 +1,15 @@
 ---
-title: "В джунглях Папуа — Новой Гвинеи нашли самолет, пропавший 80 лет назад"
-slug: 'v-dzhungliakh-papua-novoi-gvinei-nashli-samolet-propavshii'
+categories:
+- История
 date: 2024-03-04
-categories: 
-  - "Главные новости"
+slug: v-dzhungliakh-papua-novoi-gvinei-nashli-samolet-propavshii
+tags:
+- Папуа — Новая Гвинея
+- Вторая мировая война
+- 1944 год
+- военные дела
+- самолет
+title: В джунглях Папуа — Новой Гвинеи нашли самолет, пропавший 80 лет назад
 ---
 
 [Газета.Ру](http://www.gazeta.ru/)

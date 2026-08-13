@@ -1,9 +1,14 @@
 ---
-title: "Объявлен прием заявок на конкурс молодежных проектов СКФО"
-slug: 'obiavlen-priem-zaiavok-na-konkurs-molodezhnykh-proektov-skfo'
+categories:
+- Общество
 date: 2024-02-02
-categories: 
-  - "Общие новости"
+slug: obiavlen-priem-zaiavok-na-konkurs-molodezhnykh-proektov-skfo
+tags:
+- Северо-Кавказский федеральный округ
+- молодежь
+- гранты
+- социальная деятельность
+title: Объявлен прием заявок на конкурс молодежных проектов СКФО
 ---
 
 # 2 февраля 2024

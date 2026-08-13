@@ -1,10 +1,15 @@
 ---
-title: "В Академии наук ЧР разработали программный модуль TerahYoza"
-slug: 'v-akademii-nauk-chr-razrabotali-programmnyi-modul-terahyoza'
+categories:
+- Технологии
 date: 2020-11-19
-categories: 
-  - "Общие новости"
-coverImage: "м.jpg"
+slug: v-akademii-nauk-chr-razrabotali-programmnyi-modul-terahyoza
+tags:
+- Академия наук ЧР
+- чеченский язык
+- синтез речи
+- программный модуль
+- числительные
+title: В Академии наук ЧР разработали программный модуль TerahYoza
 ---
 
 Сотрудники отдела прикладной семиотики, работающие над проектом создания системы синтеза чеченской речи, разработали программный модуль нормализации числительных.

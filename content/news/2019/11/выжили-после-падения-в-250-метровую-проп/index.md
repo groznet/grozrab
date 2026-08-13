@@ -1,10 +1,15 @@
 ---
-title: "Выжили после падения в пропасть"
-slug: 'vyzhili-posle-padeniia-v-propast'
+categories:
+- Происшествия
 date: 2019-11-26
-categories: 
-  - "Общие новости"
-coverImage: "автомашина-в-пропасть.jpg"
+slug: vyzhili-posle-padeniia-v-propast
+tags:
+- Чечня
+- Итум-Калинский район
+- Шатойский район
+- МЧС
+- ДТП
+title: Выжили после падения в пропасть
 ---
 
 Легковой автомобиль сорвался в 250-метровую пропасть в [Итум-Калинском районе](https://ria.ru/location_Itum_Kalinskijj_rajjon/) [Чечни](https://ria.ru/location_CHechnja/), пострадали водитель и пассажир, сообщает во вторник [ГИБДД при МВД Чечни](https://xn--90adear.xn--p1ai/r/95/).

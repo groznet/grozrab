@@ -1,10 +1,15 @@
 ---
-title: "Стивен Кинг продал права на экранизацию трёх рассказов за 3 доллара"
-slug: 'stiven-king-prodal-prava-na-ekranizatsiiu-trekh-rasskazov-za'
+categories:
+- Культура
 date: 2020-07-13
-categories: 
-  - "Общие новости"
-coverImage: "стивен.jpg"
+slug: stiven-king-prodal-prava-na-ekranizatsiiu-trekh-rasskazov-za
+tags:
+- Стивен Кинг
+- литература
+- Netflix
+- экранизация
+- рассказы
+title: Стивен Кинг продал права на экранизацию трёх рассказов за 3 доллара
 ---
 
 **_Речь идет о продаже прав на экранизацию трех рассказов американского писателя из сборника If it bleeds (2020) за $3 — по $1 за каждый, сообщает Deadline._**

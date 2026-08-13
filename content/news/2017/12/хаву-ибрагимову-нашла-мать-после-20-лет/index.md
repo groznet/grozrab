@@ -1,10 +1,16 @@
 ---
-title: "Хаву Ибрагимову нашла мать после 20 лет разлуки"
-slug: 'khavu-ibragimovu-nashla-mat-posle-20-let-razluki'
+categories:
+- Общество
 date: 2017-12-30
-categories: 
-  - "Общие новости"
-coverImage: "wx1080.jpg"
+slug: khavu-ibragimovu-nashla-mat-posle-20-let-razluki
+tags:
+- Дагестан
+- Чечня
+- ДНК-тестирование
+- Буйнакск
+- семья
+- воссоединение
+title: Хаву Ибрагимову нашла мать после 20 лет разлуки
 ---
 
 Найти родного человека женщина сумела лишь с помощью процедуры ДНК.

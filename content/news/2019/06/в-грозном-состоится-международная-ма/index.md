@@ -1,10 +1,16 @@
 ---
-title: "Международная матчевая встреча пройдет в ГГНТУ"
-slug: 'mezhdunarodnaia-matchevaia-vstrecha-proidet-v-ggntu'
+categories:
+- Спорт
 date: 2019-06-10
-categories: 
-  - "Общие новости"
-coverImage: "матч.jpg"
+slug: mezhdunarodnaia-matchevaia-vstrecha-proidet-v-ggntu
+tags:
+- Грозный
+- Бокс
+- Международная матчевая встреча
+- Россия
+- Казахстан
+- Туркменистан
+title: Международная матчевая встреча пройдет в ГГНТУ
 ---
 
 _**16 июня во Дворце спорта ГГНТУ в Грозном  пройдет Международная матчевая встреча по боксу.**_ 

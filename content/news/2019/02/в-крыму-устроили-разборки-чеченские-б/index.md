@@ -1,9 +1,15 @@
 ---
-title: "В Крыму устроили разборки чеченские бизнесмены"
-slug: 'v-krymu-ustroili-razborki-chechenskie-biznesmeny'
+categories:
+- Политика
 date: 2019-02-07
-categories: 
-  - "Общие новости"
+slug: v-krymu-ustroili-razborki-chechenskie-biznesmeny
+tags:
+- Глава ЧР
+- Крым
+- бизнес
+- задержание
+- оружие
+title: В Крыму устроили разборки чеченские бизнесмены
 ---
 
 _**Глава ЧР Рамзан Кадыров 7 февраля прокомментировал инцидент в Республике Крым с участием чеченцев.**_

@@ -1,9 +1,15 @@
 ---
-title: "Чеченский клуб \"Кавказ\" провел в Иордании Дни культуры ЧР"
-slug: 'chechenskii-klub-kavkaz-provel-v-iordanii-dni-kultury-chr'
+categories:
+- Культура
 date: 2024-07-18
-categories: 
-  - "Главные новости"
+slug: chechenskii-klub-kavkaz-provel-v-iordanii-dni-kultury-chr
+tags:
+- Чечня
+- Иордания
+- диаспора
+- культура
+- Академия наук ЧР
+title: Чеченский клуб "Кавказ" провел в Иордании Дни культуры ЧР
 ---
 
 18.2024

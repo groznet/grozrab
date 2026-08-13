@@ -1,10 +1,14 @@
 ---
-title: "В селении Хой обнаружено погребение X-XII вв."
-slug: 'v-selenii-khoi-obnaruzheno-pogrebenie-x-xii-vv'
+categories:
+- История
 date: 2019-10-05
-categories: 
-  - "Общие новости"
-coverImage: "ХОЙ.jpg"
+slug: v-selenii-khoi-obnaruzheno-pogrebenie-x-xii-vv
+tags:
+- Хой
+- X-XII века
+- Археология
+- погребение
+title: В селении Хой обнаружено погребение X-XII вв.
 ---
 
 Найденный могильник может быть частью древнего кладбища.

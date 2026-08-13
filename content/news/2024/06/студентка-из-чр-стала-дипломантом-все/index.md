@@ -1,9 +1,16 @@
 ---
-title: "Студентка из ЧР стала дипломантом Всроссийской олимпиады студентов \"Я – профессионал\""
-slug: 'studentka-iz-chr-stala-diplomantom-vsrossiiskoi-olimpiady-ia'
+categories:
+- Образование
 date: 2024-06-18
-categories: 
-  - "Главные новости"
+slug: studentka-iz-chr-stala-diplomantom-vsrossiiskoi-olimpiady-ia
+tags:
+- Чечня
+- студентка
+- олимпиада
+- ВУЗы
+- психология
+- профессиональный рост
+title: Студентка из ЧР стала дипломантом Всроссийской олимпиады студентов "Я – профессионал"
 ---
 
 17.06.2024 17:04

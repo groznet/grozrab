@@ -1,10 +1,15 @@
 ---
-title: "ЧР присоединится к празднованию международного Дня леса"
-slug: 'chr-prisoedinitsia-k-prazdnovaniiu-mezhdunarodnogo-dnia-lesa'
+categories:
+- Общество
 date: 2017-03-19
-categories: 
-  - "Общие новости"
-coverImage: "лес-фото.jpg"
+slug: chr-prisoedinitsia-k-prazdnovaniiu-mezhdunarodnogo-dnia-lesa
+tags:
+- Чечня
+- Год экологии
+- посадка леса
+- Минприроды ЧР
+- экология
+title: ЧР присоединится к празднованию международного Дня леса
 ---
 
 21 марта в субъектах Южного и Северо-Кавказского округов в рамках Года экологии пройдет акция "Всероссийского дня посадки леса".

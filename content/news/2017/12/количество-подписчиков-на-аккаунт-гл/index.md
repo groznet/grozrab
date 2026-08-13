@@ -1,10 +1,15 @@
 ---
-title: "Количество подписчиков на аккаунт Главы ЧР в Mylistory стремительно растет"
-slug: 'kolichestvo-podpischikov-na-akkaunt-glavy-chr-v-mylistory'
+categories:
+- Технологии
 date: 2017-12-26
-categories: 
-  - "Общие новости"
-coverImage: "ramzan_kadyrov_-104-_w1200_h800-1.jpg"
+slug: kolichestvo-podpischikov-na-akkaunt-glavy-chr-v-mylistory
+tags:
+- Чечня
+- социальные сети
+- Mylistory
+- Глава ЧР
+- скачивания
+title: Количество подписчиков на аккаунт Главы ЧР в Mylistory стремительно растет
 ---
 
 Социальная сеть Mylistory обогнала Periscope, Tumbler и другие приложения по частоте скачиваний в разделе социальных сетей в App Store. Об этом 25 декабря пишет пресс-служба Главы и Правительства Чеченской Республики.

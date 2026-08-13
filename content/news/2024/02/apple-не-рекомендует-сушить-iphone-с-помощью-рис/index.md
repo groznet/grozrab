@@ -1,11 +1,15 @@
 ---
-title: "Apple не рекомендует сушить iPhone с помощью риса и фена"
-slug: 'apple-ne-rekomenduet-sushit-iphone-s-pomoshchiu-risa-i-fena'
+categories:
+- Технологии
 date: 2024-02-18
-categories: 
-  - "Общие новости"
-tags: 
-  - "другое"
+slug: apple-ne-rekomenduet-sushit-iphone-s-pomoshchiu-risa-i-fena
+tags:
+- Apple
+- iPhone
+- смартфон
+- уход за техникой
+- влажность
+title: Apple не рекомендует сушить iPhone с помощью риса и фена
 ---
 
 17.02.2024 21:46

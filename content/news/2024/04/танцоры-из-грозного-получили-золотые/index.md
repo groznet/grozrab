@@ -1,9 +1,14 @@
 ---
-title: "Юные танцоры из Грозного получили золотые дипломы"
-slug: 'iunye-tantsory-iz-groznogo-poluchili-zolotye-diplomy'
+categories:
+- Культура
 date: 2024-04-11
-categories: 
-  - "Общие новости"
+slug: iunye-tantsory-iz-groznogo-poluchili-zolotye-diplomy
+tags:
+- Грозный
+- Чечня
+- танцы
+- Министерство культуры Российской Федерации
+title: Юные танцоры из Грозного получили золотые дипломы
 ---
 
 # 11 апреля 2024

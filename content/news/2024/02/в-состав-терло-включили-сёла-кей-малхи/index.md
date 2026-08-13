@@ -1,9 +1,15 @@
 ---
-title: "В состав общества Терло включили сёла Кей, Малхиста, Гимара и Никара"
-slug: 'v-sostav-obshchestva-terlo-vkliuchili-sela-kei-malkhista-i'
+categories:
+- Политика
 date: 2024-02-01
-categories: 
-  - "Общие новости"
+slug: v-sostav-obshchestva-terlo-vkliuchili-sela-kei-malkhista-i
+tags:
+- Чечня
+- Парламент Чеченской Республики
+- Терлойское сельское поселение
+- Итум-Калинский муниципальный район
+- Магомед Даудов
+title: В состав общества Терло включили сёла Кей, Малхиста, Гимара и Никара
 ---
 
 01.02.2024

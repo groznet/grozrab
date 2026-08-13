@@ -1,10 +1,15 @@
 ---
-title: "Студент из ЧР - победитель международной конференции «World Science: problems and innovations»"
-slug: 'student-iz-chr-pobeditel-mezhdunarodnoi-konferentsii-world'
+categories:
+- Наука
 date: 2021-02-01
-categories: 
-  - "Общие новости"
-coverImage: "студент-из-чр.jpg"
+slug: student-iz-chr-pobeditel-mezhdunarodnoi-konferentsii-world
+tags:
+- Чеченская Республика
+- Северо-Кавказский институт-филиал РАНХиГС
+- экономические науки
+- инвестиционная привлекательность
+title: 'Студент из ЧР - победитель международной конференции «World Science: problems
+  and innovations»'
 ---
 
 Организатор форума - Международный центр научного сотрудничества «Наука и просвещение». В конференции приняли участие преподаватели и обучающиеся различных ВУЗов страны и зарубежья.

@@ -1,9 +1,15 @@
 ---
-title: "Предложение \"новостроек превысило спрос в два раза"
-slug: 'predlozhenie-novostroek-prevysilo-spros-v-dva-raza'
+categories:
+- Строительство
 date: 2024-02-20
-categories: 
-  - "Главные новости"
+slug: predlozhenie-novostroek-prevysilo-spros-v-dva-raza
+tags:
+- Чечня
+- жилищная недвижимость
+- новостройки
+- Банк России
+- министерство строительства и жилищно-коммунального хозяйства
+title: Предложение "новостроек превысило спрос в два раза
 ---
 
 # 20 февраля 2024г.

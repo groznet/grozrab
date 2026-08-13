@@ -1,10 +1,15 @@
 ---
-title: "В с. Сержень-юрт откроется Центр для детей-инвалидов"
-slug: 'v-s-serzhen-iurt-otkroetsia-tsentr-dlia-detei-invalidov'
+categories:
+- Здравоохранение
 date: 2017-11-13
-categories: 
-  - "Общие новости"
-coverImage: "сержень-юрт.jpg"
+slug: v-s-serzhen-iurt-otkroetsia-tsentr-dlia-detei-invalidov
+tags:
+- дети-инвалиды
+- Сержень-Юрт
+- Чечня
+- реабилитация
+- социальная сфера
+title: В с. Сержень-юрт откроется Центр для детей-инвалидов
 ---
 
 В с. Сержень-юрт откроется центр для детей-инвалидов

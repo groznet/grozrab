@@ -1,10 +1,16 @@
 ---
-title: "К Ушкалойским башням присоседился \"Twin towers\""
-slug: 'k-ushkaloiskim-bashniam-prisosedilsia-twin-towers'
+categories:
+- Туризм
 date: 2019-10-03
-categories: 
-  - "Общие новости"
-coverImage: "ушкалой-гостиница.jpg"
+slug: k-ushkaloiskim-bashniam-prisosedilsia-twin-towers
+tags:
+- Аргунское ущелье
+- Ушкалойские башни
+- Чечня
+- туризм
+- гостиница
+- ресторан
+title: К Ушкалойским башням присоседился "Twin towers"
 ---
 
 Поблизости от знаменитых Ушкалойских башен в Аргунском ущелье открылся новый туристический объект.

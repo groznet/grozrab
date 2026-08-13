@@ -1,11 +1,16 @@
 ---
-title: "«Азбука Донбасса» выпустит издание для Чеченской Республики"
-slug: 'azbuka-donbassa-vypustit-izdanie-dlia-chechenskoi-respubliki'
+categories:
+- Образование
 date: 2024-02-16
-categories: 
-  - "Общие новости"
-tags: 
-  - "общество"
+slug: azbuka-donbassa-vypustit-izdanie-dlia-chechenskoi-respubliki
+tags:
+- Чечня
+- Донбасс
+- образовательный проект
+- буквари
+- культура
+- регионы
+title: «Азбука Донбасса» выпустит издание для Чеченской Республики
 ---
 
 16.02.2024 17:41

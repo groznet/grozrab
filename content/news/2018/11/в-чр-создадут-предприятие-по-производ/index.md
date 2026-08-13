@@ -1,10 +1,15 @@
 ---
-title: "В ЧР начнется производство нефтегазового оборудования"
-slug: 'v-chr-nachnetsia-proizvodstvo-neftegazovogo-oborudovaniia'
+categories:
+- Экономика
 date: 2018-11-09
-categories: 
-  - "Общие новости"
-coverImage: "чечня-китай.jpg"
+slug: v-chr-nachnetsia-proizvodstvo-neftegazovogo-oborudovaniia
+tags:
+- Чечня
+- нефтегазовая отрасль
+- оборудование
+- производство
+- инжиниринг
+title: В ЧР начнется производство нефтегазового оборудования
 ---
 
 Министр промышленности и энергетики ЧР Ризван Масаев посетил завод Kerui Group в Пекине.

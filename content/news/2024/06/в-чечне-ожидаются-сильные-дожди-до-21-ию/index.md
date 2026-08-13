@@ -1,9 +1,15 @@
 ---
-title: "В Чечне ожидаются сильные дожди до 21 июня"
-slug: 'v-chechne-ozhidaiutsia-silnye-dozhdi-do-21-iiunia'
+categories:
+- Погода
 date: 2024-06-18
-categories: 
-  - "Общие новости"
+slug: v-chechne-ozhidaiutsia-silnye-dozhdi-do-21-iiunia
+tags:
+- Чечня
+- ливни
+- гроза
+- град
+- МЧС России
+title: В Чечне ожидаются сильные дожди до 21 июня
 ---
 
 # 18 июня 2024г.

@@ -1,9 +1,16 @@
 ---
-title: "Присвоение имени Путина ускорило продажи квартир одноименного  квартал"
-slug: 'prisvoenie-imeni-putina-uskorilo-prodazhi-kvartir-kvartal'
+categories:
+- Строительство
 date: 2024-07-23
-categories: 
-  - "Главные новости"
+slug: prisvoenie-imeni-putina-uskorilo-prodazhi-kvartir-kvartal
+tags:
+- Грозный
+- Чечня
+- Владимир Путин
+- квартиры
+- продажи
+- многоэтажные дома
+title: Присвоение имени Путина ускорило продажи квартир одноименного  квартал
 ---
 
 23.07.2024

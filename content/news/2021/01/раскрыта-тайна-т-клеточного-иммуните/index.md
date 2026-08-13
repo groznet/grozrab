@@ -1,10 +1,15 @@
 ---
-title: "Раскрыта тайна Т-клеточного иммунитета к коронавирусу"
-slug: 'raskryta-taina-t-kletochnogo-immuniteta-k-koronavirusu'
+categories:
+- Здравоохранение
 date: 2021-01-25
-categories: 
-  - "Общие новости"
-coverImage: "ран.jpg"
+slug: raskryta-taina-t-kletochnogo-immuniteta-k-koronavirusu
+tags:
+- коронавирус
+- Т-клеточный иммунитет
+- ОРВИ
+- SARS-CoV-2
+- РНИМУ им.Пирогова
+title: Раскрыта тайна Т-клеточного иммунитета к коронавирусу
 ---
 
 Т-клетки «запомнили» старый коронавирус и быстро уничтожают новый.

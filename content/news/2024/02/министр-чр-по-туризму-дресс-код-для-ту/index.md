@@ -1,7 +1,15 @@
 ---
-title: "ДРЕСС-КОД: ТУРИСТАМ ПОСОВЕТОВАЛИ НЕ РАССЛАБЛЯТЬСЯ"
-slug: 'dress-kod-turistam-posovetovali-ne-rasslabliatsia'
+categories:
+- Туризм
 date: 2024-02-06
+slug: dress-kod-turistam-posovetovali-ne-rasslabliatsia
+tags:
+- Чечня
+- дресс-код
+- туристы
+- Муслим Байтазиев
+- Рамзан Кадыров
+title: 'ДРЕСС-КОД: ТУРИСТАМ ПОСОВЕТОВАЛИ НЕ РАССЛАБЛЯТЬСЯ'
 ---
 
 # 06 февраля 2024 

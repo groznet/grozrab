@@ -1,9 +1,13 @@
 ---
-title: "Штормовое предупреждение в Чечне действует до 22 апреля"
-slug: 'shtormovoe-preduprezhdenie-v-chechne-deistvuet-do-22-aprelia'
+categories:
+- Погода
 date: 2024-04-21
-categories: 
-  - "Общие новости"
+slug: shtormovoe-preduprezhdenie-v-chechne-deistvuet-do-22-aprelia
+tags:
+- Чечня
+- МЧС
+- штормовое предупреждение
+title: Штормовое предупреждение в Чечне действует до 22 апреля
 ---
 
 21.04.2024

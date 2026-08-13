@@ -1,9 +1,16 @@
 ---
-title: "С Днем чеченской женщины!"
-slug: 's-dnem-chechenskoi-zhenshchiny'
+categories:
+- Общество
 date: 2023-09-17
-categories: 
-  - "Главные новости"
+slug: s-dnem-chechenskoi-zhenshchiny
+tags:
+- Чечня
+- женщина
+- материнская любовь
+- героизм
+- 1819 год
+- 19 век
+title: С Днем чеченской женщины!
 ---
 
 ![](https://ci21392.tw1.ru/wp-content/uploads/2023/09/чеч-1-300x172.jpg)17.09.2023 11:42

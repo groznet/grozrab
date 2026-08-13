@@ -1,7 +1,16 @@
 ---
-title: "ВОЗВРАЩЕНИЕ НА ИСТОРИЧЕСКУЮ РОДИНУ"
-slug: 'vozvrashchenie-na-istoricheskuiu-rodinu'
+categories:
+- История
 date: 2024-06-05
+slug: vozvrashchenie-na-istoricheskuiu-rodinu
+tags:
+- Чечня
+- Ингушетия
+- 1956 год
+- депортация
+- Кавказ
+- Ислам
+title: ВОЗВРАЩЕНИЕ НА ИСТОРИЧЕСКУЮ РОДИНУ
 ---
 
 9 января 1959 г. Президиум Верховного Совета СССР принял

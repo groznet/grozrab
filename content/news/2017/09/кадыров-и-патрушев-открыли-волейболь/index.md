@@ -1,10 +1,15 @@
 ---
-title: "Кадыров и Патрушев открыли волейбольный комплекс"
-slug: 'kadyrov-i-patrushev-otkryli-voleibolnyi-kompleks'
+categories:
+- Спорт
 date: 2017-09-12
-categories: 
-  - "Общие новости"
-coverImage: "1_270c40d46cab1217.jpeg"
+slug: kadyrov-i-patrushev-otkryli-voleibolnyi-kompleks
+tags:
+- Кадыров
+- Патрушев
+- волейбол
+- Ахмат-Арена
+- Чечня
+title: Кадыров и Патрушев открыли волейбольный комплекс
 ---
 
 Об этом сообщает сайт Главы и Правительства ЧР.

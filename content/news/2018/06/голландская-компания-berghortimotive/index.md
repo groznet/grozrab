@@ -1,10 +1,16 @@
 ---
-title: "Голландская компания BergHortimotive планирует наладить производство собственной продукции в ЧР"
-slug: 'gollandskaia-kompaniia-berghortimotive'
+categories:
+- Бизнес
 date: 2018-06-27
-categories: 
-  - "Общие новости"
-coverImage: "Gollandskaya_kompaniya_BergHortimotive_planiruet_naladit__proizvodstvo_sobstvennoiy_produktsii_v_CHR_w1200_h800.jpg"
+slug: gollandskaia-kompaniia-berghortimotive
+tags:
+- ЧР
+- сельское хозяйство
+- производство
+- экспорт
+- оборудование
+title: Голландская компания BergHortimotive планирует наладить производство собственной
+  продукции в ЧР
 ---
 
 _**Министр промышленности и энергетики ЧР Ризван Масаев встретился с представителями голландской компании BergHortimotive, прибывшими в республику с целью ознакомления с региональным рынком и реализации собственной продукции.**_

@@ -1,9 +1,15 @@
 ---
-title: "ЧГПУ участвует в книжной ярмарке в Катаре"
-slug: 'chgpu-uchastvuet-v-knizhnoi-iarmarke-v-katare'
+categories:
+- Культура
 date: 2024-05-16
-categories: 
-  - "Главные новости"
+slug: chgpu-uchastvuet-v-knizhnoi-iarmarke-v-katare
+tags:
+- Катар
+- ЧГПУ
+- Александр Сергеевич Пушкин
+- книжная ярмарка
+- культура
+title: ЧГПУ участвует в книжной ярмарке в Катаре
 ---
 
 16 мая 2024г.

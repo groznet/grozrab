@@ -1,10 +1,14 @@
 ---
-title: "Вышел в свет VIII том «Чеченского фольклора»"
-slug: 'vyshel-v-svet-viii-tom-chechenskogo-folklora'
+categories:
+- Культура
 date: 2019-03-18
-categories: 
-  - "Общие новости"
-coverImage: "фольклор.jpg"
+slug: vyshel-v-svet-viii-tom-chechenskogo-folklora
+tags:
+- Чечня
+- фольклор
+- Академия наук ЧР
+- Исмаил Мунаев
+title: Вышел в свет VIII том «Чеченского фольклора»
 ---
 
 **Составитель издания - заведующий сектором фольклора Института Гуманитарных Исследований Академии Наук ЧР Исмаил Мунаев.**

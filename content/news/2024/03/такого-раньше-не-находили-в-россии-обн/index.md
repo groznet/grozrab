@@ -1,9 +1,15 @@
 ---
-title: "Такого раньше не находили. В России обнаружен уникальный артефакт"
-slug: 'takogo-ranshe-ne-nakhodili-v-rossii-obnaruzhen-unikalnyi'
+categories:
+- История
 date: 2024-03-12
-categories: 
-  - "Главные новости"
+slug: takogo-ranshe-ne-nakhodili-v-rossii-obnaruzhen-unikalnyi
+tags:
+- Смутное время
+- Тула
+- топорик-чекан
+- Куликово поле
+- XVII век
+title: Такого раньше не находили. В России обнаружен уникальный артефакт
 ---
 
 # ![](https://ci21392.tw1.ru/wp-content/uploads/2024/03/топорик-300x169.webp)© Фото : Государственный музей-заповедник "Куликово поле"/Роман Солоп

@@ -1,9 +1,14 @@
 ---
-title: "Институт развития Интернета запускает телеканал \"Мы\""
-slug: 'institut-razvitiia-interneta-zapuskaet-telekanal-my'
+categories:
+- Технологии
 date: 2024-03-05
-categories: 
-  - "Общие новости"
+slug: institut-razvitiia-interneta-zapuskaet-telekanal-my
+tags:
+- Институт развития интернета
+- телеканал Мы
+- онлайн-платформа
+- Wink.ru
+title: Институт развития Интернета запускает телеканал "Мы"
 ---
 
 [Сусанна Альперина](https://rg.ru/authors/Susanna-Alperina)

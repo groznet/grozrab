@@ -1,9 +1,15 @@
 ---
-title: "Американка выжила после 25-минутной остановки сердца"
-slug: 'amerikanka-vyzhila-posle-25-minutnoi-ostanovki-serdtsa'
+categories:
+- Здравоохранение
 date: 2024-03-11
-categories: 
-  - "Главные новости"
+slug: amerikanka-vyzhila-posle-25-minutnoi-ostanovki-serdtsa
+tags:
+- Миннесота
+- остановка сердца
+- реанимация
+- сердечно-сосудистая система
+- кома
+title: Американка выжила после 25-минутной остановки сердца
 ---
 
 Жительница [США](https://lenta.ru/tags/geo/ssha/) из штата Миннесота выжила после 25-минутной остановки сердца и двухнедельной комы. Об этом [сообщает](https://www.foxnews.com/health/minnesota-woman-survives-25-minutes-without-pulse-warns-sudden-cardiac-arrest) Fox News.

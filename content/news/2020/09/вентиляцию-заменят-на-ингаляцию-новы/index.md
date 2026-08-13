@@ -1,10 +1,15 @@
 ---
-title: "Вентиляцию заменят на ингаляцию: новый способ лечения СOVID-19"
-slug: 'ventiliatsiiu-zameniat-na-ingaliatsiiu-novyi-sposob-sovid-19'
+categories:
+- Здравоохранение
 date: 2020-09-11
-categories: 
-  - "Общие новости"
-coverImage: "ИВЛ-1.jpg"
+slug: ventiliatsiiu-zameniat-na-ingaliatsiiu-novyi-sposob-sovid-19
+tags:
+- COVID-19
+- ингаляция
+- коронавирус
+- лечение
+- ученые
+title: 'Вентиляцию заменят на ингаляцию: новый способ лечения СOVID-19'
 ---
 
 Российские ученые нашли способ заменить искусственную вентиляцию легких на ингаляцию гелиево-кислородной смесью при лечении Сovid-19.

@@ -1,10 +1,14 @@
 ---
-title: "Власти ЧР намерены добиться отмены продвижения игры о вампирах в России"
-slug: 'vlasti-chr-namereny-dobitsia-otmeny-prodvizheniia-igry-o-v'
+categories:
+- Политика
 date: 2018-11-16
-categories: 
-  - "Общие новости"
-coverImage: "вампиры.jpg"
+slug: vlasti-chr-namereny-dobitsia-otmeny-prodvizheniia-igry-o-v
+tags:
+- Чечня
+- Джамбулат Умаров
+- межнациональная рознь
+- ВОВ
+title: Власти ЧР намерены добиться отмены продвижения игры о вампирах в России
 ---
 
 Министр республики по национальной политике и внешним связям Джамбулат Умаров назвал проект Vampire: The Masquerade разжигающим межнациональную рознь

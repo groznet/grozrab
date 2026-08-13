@@ -1,10 +1,15 @@
 ---
-title: "В Грозном появится Центр Ядерной Медицины с позитронной эмиссионной томографией"
-slug: 'v-groznom-poiavitsia-tsentr-iadernoi-meditsiny-s-pozitronnoi'
+categories:
+- Здравоохранение
 date: 2017-10-22
-categories: 
-  - "Общие новости"
-coverImage: "эльхан.jpg"
+slug: v-groznom-poiavitsia-tsentr-iadernoi-meditsiny-s-pozitronnoi
+tags:
+- Грозный
+- Центр Ядерной Медицины
+- онкологические заболевания
+- ПЭТ/КТ
+- министр здравоохранения ЧР
+title: В Грозном появится Центр Ядерной Медицины с позитронной эмиссионной томографией
 ---
 
 Об этом в своем Instagram сообщил министр здравоохранения ЧР Эльхан Сулейманов.

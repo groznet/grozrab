@@ -1,10 +1,15 @@
 ---
-title: "Разработчик приложения Mylistory дал пресс-конференцию в Грозном"
-slug: 'razrabotchik-prilozheniia-mylistory-dal-press-konferentsiiu'
+categories:
+- Технологии
 date: 2018-01-22
-categories: 
-  - "Общие новости"
-coverImage: "1200x630bb.jpg"
+slug: razrabotchik-prilozheniia-mylistory-dal-press-konferentsiiu
+tags:
+- Mylistory
+- Грозный
+- социальная сеть
+- приложение
+- разработка
+title: Разработчик приложения Mylistory дал пресс-конференцию в Грозном
 ---
 
 20 января Магомед Эсханов, наиболее известный как разработчик российского приложения Mylistory, дал свою первую пресс-конференцию и ответил журналистам на все вопросы, касающиеся его проекта.

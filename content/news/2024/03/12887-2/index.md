@@ -1,9 +1,14 @@
 ---
-title: "Археологические исследования: новые материалы и интерпретации"
-slug: 'arkheologicheskie-issledovaniia-novye-materialy-i'
+categories:
+- Наука
 date: 2024-03-01
-tags: 
-  - "история"
+slug: arkheologicheskie-issledovaniia-novye-materialy-i
+tags:
+- археология
+- история
+- Евразия
+- Российская академия наук
+title: 'Археологические исследования: новые материалы и интерпретации'
 ---
 
 ![](https://ci21392.tw1.ru/wp-content/uploads/2024/03/заставка-copy-300x212.jpg)

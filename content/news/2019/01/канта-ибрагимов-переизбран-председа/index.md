@@ -1,10 +1,15 @@
 ---
-title: "Канта Ибрагимов переизбран председателем Союза писателей ЧР"
-slug: 'kanta-ibragimov-pereizbran-predsedatelem-soiuza-pisatelei'
+categories:
+- Культура
 date: 2019-01-15
-categories: 
-  - "Общие новости"
-coverImage: "канта-3.jpg"
+slug: kanta-ibragimov-pereizbran-predsedatelem-soiuza-pisatelei
+tags:
+- Союз писателей ЧР
+- Грозный
+- Чечня
+- литература
+- Канта Ибрагимов
+title: Канта Ибрагимов переизбран председателем Союза писателей ЧР
 ---
 
 _**В Грозном прошёл XVII съезд Союза писателей ЧР . В ходе форума Канта Ибрагимов переизбран председателем организации.**_

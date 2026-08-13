@@ -1,10 +1,15 @@
 ---
-title: "Обитателей общежитий переселяют... в собственные дома"
-slug: 'obitatelei-obshchezhitii-pereseliaiut-v-sobstvennye-doma'
+categories:
+- Общество
 date: 2018-10-24
-categories: 
-  - "Общие новости"
-coverImage: "ГРОЗНЫЙ-МЭРИЯ.jpg"
+slug: obitatelei-obshchezhitii-pereseliaiut-v-sobstvennye-doma
+tags:
+- Грозный
+- Чечня
+- общежития
+- мэрия
+- жилищные вопросы
+title: Обитателей общежитий переселяют... в собственные дома
 ---
 
 Об этом ИА «Чечня Сегодня» сообщили представители мэрии города Грозный 23 октября.

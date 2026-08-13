@@ -1,9 +1,15 @@
 ---
-title: "Погибший в XIII веке житель Ярославля благодаря ученым обрел голос"
-slug: 'pogibshii-v-xiii-veke-zhitel-iaroslavlia-blagodaria-uchenym'
+categories:
+- История
 date: 2024-01-27
-categories: 
-  - "Главные новости"
+slug: pogibshii-v-xiii-veke-zhitel-iaroslavlia-blagodaria-uchenym
+tags:
+- Ярославль
+- XIII век
+- археология
+- история
+- ученые
+title: Погибший в XIII веке житель Ярославля благодаря ученым обрел голос
 ---
 
 25 января 2024 г.

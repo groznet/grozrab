@@ -1,9 +1,14 @@
 ---
-title: "На Земле началась магнитная буря"
-slug: 'na-zemle-nachalas-magnitnaia-buria'
+categories:
+- Наука
 date: 2024-02-29
-tags: 
-  - "наука"
+slug: na-zemle-nachalas-magnitnaia-buria
+tags:
+- магнитная буря
+- Солнце
+- геомагнитное поле
+- солнечный цикл
+title: На Земле началась магнитная буря
 ---
 
 27.02.2024

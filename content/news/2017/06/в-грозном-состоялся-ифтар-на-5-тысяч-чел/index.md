@@ -1,10 +1,14 @@
 ---
-title: "В Грозном состоялся ифтар на 5 тысяч человек"
-slug: 'v-groznom-sostoialsia-iftar-na-5-tysiach-chelovek'
+categories:
+- Общество
 date: 2017-06-23
-categories: 
-  - "Общие новости"
-coverImage: "iftar.jpg"
+slug: v-groznom-sostoialsia-iftar-na-5-tysiach-chelovek
+tags:
+- Грозный
+- Чечня
+- Рамзан Кадыров
+- Хамзат Кадыров
+title: В Грозном состоялся ифтар на 5 тысяч человек
 ---
 
 Глава Чеченской Республики Рамзан Кадыров принял участие в ифтаре, организованном 22 июня его племянником Хамзатом Кадыровым.

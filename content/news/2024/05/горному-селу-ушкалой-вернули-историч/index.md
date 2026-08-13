@@ -1,9 +1,15 @@
 ---
-title: "Горному селу Ушкалой вернули историческое название"
-slug: 'gornomu-selu-ushkaloi-vernuli-istoricheskoe-nazvanie'
+categories:
+- История
 date: 2024-05-29
-categories: 
-  - "Главные новости"
+slug: gornomu-selu-ushkaloi-vernuli-istoricheskoe-nazvanie
+tags:
+- Чечня
+- Итум-Калинский район
+- Ушкалой
+- Чиннах
+- историческое название
+title: Горному селу Ушкалой вернули историческое название
 ---
 
 # 29 мая 2024г.

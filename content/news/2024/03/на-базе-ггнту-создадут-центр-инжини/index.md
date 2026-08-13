@@ -1,9 +1,16 @@
 ---
-title: "На базе ГГНТУ создадут Центр инжиниринговых разработок"
-slug: 'na-baze-ggntu-sozdadut-tsentr-inzhiniringovykh-razrabotok'
+categories:
+- Технологии
 date: 2024-03-01
-categories: 
-  - "Главные новости"
+slug: na-baze-ggntu-sozdadut-tsentr-inzhiniringovykh-razrabotok
+tags:
+- Чечня
+- Грозный
+- машиностроение
+- беспилотные авиационные системы
+- аддитивные технологии
+- инжиниринг
+title: На базе ГГНТУ создадут Центр инжиниринговых разработок
 ---
 
 26 февраля 2026

@@ -1,9 +1,15 @@
 ---
-title: "Педагог из Грозного назван лучшим учителем чеченского языка"
-slug: 'pedagog-iz-groznogo-nazvan-luchshim-uchitelem-chechenskogo'
+categories:
+- Образование
 date: 2024-06-04
-categories: 
-  - "Главные новости"
+slug: pedagog-iz-groznogo-nazvan-luchshim-uchitelem-chechenskogo
+tags:
+- Грозный
+- Чечня
+- педагогика
+- чеченский язык
+- конкурс
+title: Педагог из Грозного назван лучшим учителем чеченского языка
 ---
 
 04.06.2024

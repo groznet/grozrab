@@ -1,10 +1,16 @@
 ---
-title: "Ученые исследуют историю чеченской диаспоры в Иордании"
-slug: 'uchenye-issleduiut-istoriiu-chechenskoi-diaspory-v-iordanii'
+categories:
+- История
 date: 2019-01-30
-categories: 
-  - "Общие новости"
-coverImage: "ан-чр.jpg"
+slug: uchenye-issleduiut-istoriiu-chechenskoi-diaspory-v-iordanii
+tags:
+- Академия наук ЧР
+- Ближний Восток
+- Иордания
+- чеченский народ
+- мухаджиры
+- этнология
+title: Ученые исследуют историю чеченской диаспоры в Иордании
 ---
 
 _**В отделе этнологии Академии наук ЧР состоялся научный семинар, посвященный чеченцам, проживающим в Иордании.**_

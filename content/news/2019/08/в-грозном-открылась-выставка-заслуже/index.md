@@ -1,10 +1,15 @@
 ---
-title: "Открылась выставка Заслуженного художника ЧР Магомеда Закриева"
-slug: 'otkrylas-vystavka-zasluzhennogo-khudozhnika-chr-magomeda'
+categories:
+- Культура
 date: 2019-08-03
-categories: 
-  - "Общие новости"
-coverImage: "выставка.jpg"
+slug: otkrylas-vystavka-zasluzhennogo-khudozhnika-chr-magomeda
+tags:
+- ЧР
+- Магомед Закриев
+- выставка живописи
+- Национальный музей Чеченской Республики
+- культура
+title: Открылась выставка Заслуженного художника ЧР Магомеда Закриева
 ---
 
 Всего для любителей живописи представлено 49 работ.

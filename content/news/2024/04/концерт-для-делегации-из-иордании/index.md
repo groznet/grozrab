@@ -1,9 +1,15 @@
 ---
-title: "Концерт для делегации из Иордании"
-slug: 'kontsert-dlia-delegatsii-iz-iordanii'
-date: '2024-04-04'
 categories:
-  - "Главные новости"
+- Культура
+date: '2024-04-04'
+slug: kontsert-dlia-delegatsii-iz-iordanii
+tags:
+- Чеченская Республика
+- Иордания
+- концертная программа
+- творческие коллективы
+- Аймани Айдамирова
+title: Концерт для делегации из Иордании
 ---
 
 #  ![](https://ci21392.tw1.ru/wp-content/uploads/2024/04/конц-300x200.jpg) ![](https://ci21392.tw1.ru/wp-content/uploads/2024/04/концерт-300x200.jpg)01 апреля 2024г.

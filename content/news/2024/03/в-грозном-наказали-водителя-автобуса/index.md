@@ -1,9 +1,15 @@
 ---
-title: "В Грозном наказали водителя автобуса, оставившего на остановке двоих детей"
-slug: 'v-groznom-nakazali-voditelia-avtobusa-ostavivshego-na-dvoikh'
+categories:
+- Транспорт
 date: 2024-03-17
-categories: 
-  - "Главные новости"
+slug: v-groznom-nakazali-voditelia-avtobusa-ostavivshego-na-dvoikh
+tags:
+- Грозный
+- автобус
+- общественный транспорт
+- дисциплинарное наказание
+- министр транспорта
+title: В Грозном наказали водителя автобуса, оставившего на остановке двоих детей
 ---
 
 17.03.2024

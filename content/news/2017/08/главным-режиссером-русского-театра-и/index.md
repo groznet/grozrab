@@ -1,10 +1,13 @@
 ---
-title: "Русский театр им. М. Ю. Лермонтова возглавил режиссер из Санкт-Петербурга"
-slug: 'russkii-teatr-im-m-iu-lermontova-vozglavil-rezhisser-iz'
+categories:
+- Культура
 date: 2017-08-30
-categories: 
-  - "Общие новости"
-coverImage: "i-2.jpg"
+slug: russkii-teatr-im-m-iu-lermontova-vozglavil-rezhisser-iz
+tags:
+- Лермонтов
+- Санкт-Петербург
+- театр
+title: Русский театр им. М. Ю. Лермонтова возглавил режиссер из Санкт-Петербурга
 ---
 
 Об этом сообщил министр культуры ЧР на своей странице в интернет-приложении Instagram.

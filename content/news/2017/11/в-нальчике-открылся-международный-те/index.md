@@ -1,10 +1,16 @@
 ---
-title: "В Нальчике открылся международный театральный фестиваль «Южная сцена»"
-slug: 'v-nalchike-otkrylsia-mezhdunarodnyi-teatralnyi-festival'
+categories:
+- Культура
 date: 2017-11-21
-categories: 
-  - "Общие новости"
-coverImage: "dsc8119.jpg"
+slug: v-nalchike-otkrylsia-mezhdunarodnyi-teatralnyi-festival
+tags:
+- Нальчик
+- театр
+- фестиваль
+- Кабардино-Балкарии
+- Чечня
+- Дагестан
+title: В Нальчике открылся международный театральный фестиваль «Южная сцена»
 ---
 
 В понедельник (20 ноября) в Нальчике открылся международный фестиваль «Южная сцена».

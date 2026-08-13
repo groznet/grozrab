@@ -1,10 +1,15 @@
 ---
-title: "Преданы земле останки без вести пропавшего в 1995 году"
-slug: 'predany-zemle-ostanki-bez-vesti-propavshego-v-1995-godu'
+categories:
+- История
 date: 2019-03-08
-categories: 
-  - "Общие новости"
-coverImage: "БВП.jpg"
+slug: predany-zemle-ostanki-bez-vesti-propavshego-v-1995-godu
+tags:
+- Чечня
+- Грозный
+- Ростов-на-Дону
+- ВОВ
+- 1995 год
+title: Преданы земле останки без вести пропавшего в 1995 году
 ---
 
 Сотни людей посетили похороны пропавшего в январе 1995 года Шарипа Исмаилова.

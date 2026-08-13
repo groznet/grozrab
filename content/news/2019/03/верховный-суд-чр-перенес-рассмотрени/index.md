@@ -1,10 +1,15 @@
 ---
-title: "Верховный суд ЧР перенес рассмотрение жалобы \"Газпрома\""
-slug: 'verkhovnyi-sud-chr-perenes-rassmotrenie-zhaloby-gazproma'
+categories:
+- ЖКХ
 date: 2019-03-30
-categories: 
-  - "Общие новости"
-coverImage: "газ-пром-1.jpg"
+slug: verkhovnyi-sud-chr-perenes-rassmotrenie-zhaloby-gazproma
+tags:
+- Газпром межрегионгаз Грозный
+- Грозный
+- Чечня
+- коммунальные долги
+- Заводской районный суд
+title: Верховный суд ЧР перенес рассмотрение жалобы "Газпрома"
 ---
 
 Жалоба будет рассмотрена 4 апреля, передает корреспондент ТАСС.

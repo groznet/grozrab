@@ -1,9 +1,15 @@
 ---
-title: "Будущие нефтяники побывали в XIII веке"
-slug: 'budushchie-neftianiki-pobyvali-v-xiii-veke'
+categories:
+- История
 date: 2024-03-13
-categories: 
-  - "Главные новости"
+slug: budushchie-neftianiki-pobyvali-v-xiii-veke
+tags:
+- XIII век
+- Чечня
+- архитектура
+- исторические памятники
+- Комалхи
+title: Будущие нефтяники побывали в XIII веке
 ---
 
 # 09\. 03. 2024![](https://ci21392.tw1.ru/wp-content/uploads/2024/03/экс2-135x300.jpg)![](https://ci21392.tw1.ru/wp-content/uploads/2024/03/экс-135x300.jpg)

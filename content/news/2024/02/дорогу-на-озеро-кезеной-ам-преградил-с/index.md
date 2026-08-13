@@ -1,7 +1,15 @@
 ---
-title: "Дорогу на озеро Кезеной-Ам преградил сход лавин"
-slug: 'dorogu-na-ozero-kezenoi-am-pregradil-skhod-lavin'
+categories:
+- Происшествия
 date: 2024-02-07
+slug: dorogu-na-ozero-kezenoi-am-pregradil-skhod-lavin
+tags:
+- Дагестан
+- Чечня
+- лавины
+- дороги
+- туризм
+title: Дорогу на озеро Кезеной-Ам преградил сход лавин
 ---
 
 07 февраля 2024г.

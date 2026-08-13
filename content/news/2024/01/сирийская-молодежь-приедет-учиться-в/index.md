@@ -1,9 +1,15 @@
 ---
-title: "СИРИЙСКАЯ МОЛОДЕЖЬ ПРИЕДЕТ УЧИТЬСЯ В ВУЗАХ РОССИИ"
-slug: 'siriiskaia-molodezh-priedet-uchitsia-v-vuzakh-rossii'
+categories:
+- Образование
 date: 2024-01-22
-categories: 
-  - "Главные новости"
+slug: siriiskaia-molodezh-priedet-uchitsia-v-vuzakh-rossii
+tags:
+- Сирия
+- Россия
+- вузы
+- магистратура
+- образовательные программы
+title: СИРИЙСКАЯ МОЛОДЕЖЬ ПРИЕДЕТ УЧИТЬСЯ В ВУЗАХ РОССИИ
 ---
 
 20.01.2024

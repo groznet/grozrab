@@ -1,9 +1,15 @@
 ---
-title: "В Египте обнаружена часть статуи фараона Рамзеса Великого"
-slug: 'v-egipte-obnaruzhena-chast-statui-faraona-ramzesa-velikogo'
+categories:
+- История
 date: 2024-03-31
-categories: 
-  - "Главные новости"
+slug: v-egipte-obnaruzhena-chast-statui-faraona-ramzesa-velikogo
+tags:
+- Египет
+- Рамзес Великий
+- археология
+- фараон
+- древний Египет
+title: В Египте обнаружена часть статуи фараона Рамзеса Великого
 ---
 
 5 марта 2024

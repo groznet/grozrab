@@ -1,10 +1,14 @@
 ---
-title: "ДОМ МОДЫ ВЯЧЕСЛАВА ЗАЙЦЕВА ПРИГЛАШАЕТ НА МЕЖДУНАРОДНЫЙ ФЕСТИВАЛЬ"
-slug: 'dom-mody-viacheslava-zaitseva-priglashaet-na-mezhdunarodnyi'
+categories:
+- Культура
 date: 2021-11-25
-categories: 
-  - "Общие новости"
-coverImage: "ЗЗЗ.jpeg"
+slug: dom-mody-viacheslava-zaitseva-priglashaet-na-mezhdunarodnyi
+tags:
+- модный показ
+- дизайнеры
+- международный фестиваль
+- благотворительность
+title: ДОМ МОДЫ ВЯЧЕСЛАВА ЗАЙЦЕВА ПРИГЛАШАЕТ НА МЕЖДУНАРОДНЫЙ ФЕСТИВАЛЬ
 ---
 
 Модный показ под названием "FASHION AND BEAUTY OF THE PLANET, AWARDS 2021" ("МОДА И КРАСОТА ПЛАНЕТЫ, ПРЕМИЯ 2021") пройдет 11 декабря 2021 года

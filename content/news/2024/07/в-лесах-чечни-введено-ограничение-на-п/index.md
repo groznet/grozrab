@@ -1,7 +1,15 @@
 ---
-title: "В лесах Чечни ограничили пребывание граждан"
-slug: 'v-lesakh-chechni-ogranichili-prebyvanie-grazhdan'
+categories:
+- Экология
 date: 2024-07-23
+slug: v-lesakh-chechni-ogranichili-prebyvanie-grazhdan
+tags:
+- Чечня
+- пожарная безопасность
+- лесные массивы
+- Минприроды
+- ограничение пребывания
+title: В лесах Чечни ограничили пребывание граждан
 ---
 
 #  23 июля 2024г.

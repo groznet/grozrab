@@ -1,15 +1,17 @@
 ---
-title: "Рамзан Кадыров пригласил в Грозный наблюдателей"
-slug: 'ramzan-kadyrov-priglasil-v-groznyi-nabliudatelei'
+categories:
+- Политика
 date: 2018-03-17
-categories: 
-  - "Главные новости"
-coverImage: "arton44173.jpg"
+slug: ramzan-kadyrov-priglasil-v-groznyi-nabliudatelei
+tags:
+- Глава ЧР
+- Выборы
+- Чечня
+- Избирательные участки
+- Россия
+- наблюдатели
+title: Рамзан Кадыров пригласил в Грозный наблюдателей
 ---
-
- 
-
- 
 
 _**Глава ЧР на своем канале Telegram пригласил в Чечню наблюдателей различных политических сил в день выборов Президента РФ.**_
 

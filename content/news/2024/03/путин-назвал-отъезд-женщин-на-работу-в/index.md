@@ -1,9 +1,15 @@
 ---
-title: "Путин назвал отъезд женщин на работу в зону спецоперации их внутренним порывом"
-slug: 'putin-nazval-otezd-zhenshchin-na-rabotu-v-zonu-ikh-poryvom'
+categories:
+- Общество
 date: 2024-03-07
-categories: 
-  - "Главные новости"
+slug: putin-nazval-otezd-zhenshchin-na-rabotu-v-zonu-ikh-poryvom
+tags:
+- Владимир Путин
+- СВО
+- женщины
+- служба
+- патриотизм
+title: Путин назвал отъезд женщин на работу в зону спецоперации их внутренним порывом
 ---
 
 07.03.2024 

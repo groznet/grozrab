@@ -1,10 +1,15 @@
 ---
-title: "Cтроительство главного ж/д вокзала республики начнется в 2020 г."
-slug: 'ctroitelstvo-glavnogo-zh-d-vokzala-respubliki-nachnetsia-v-g'
+categories:
+- Строительство
 date: 2019-10-25
-categories: 
-  - "Общие новости"
-coverImage: "жд-вокзал.jpeg"
+slug: ctroitelstvo-glavnogo-zh-d-vokzala-respubliki-nachnetsia-v-g
+tags:
+- Грозный
+- Чечня
+- железнодорожная инфраструктура
+- транспорт
+- ЖД вокзал
+title: Cтроительство главного ж/д вокзала республики начнется в 2020 г.
 ---
 
 **В связи с этим изучаются вопросы открытия новых маршрутов, один из них Грозный – Казань.**

@@ -1,10 +1,15 @@
 ---
-title: "Женское такси \"Мехкарий\" - для прекрасного пола"
-slug: 'zhenskoe-taksi-mekhkarii-dlia-prekrasnogo-pola'
+categories:
+- Общество
 date: 2019-05-09
-categories: 
-  - "Общие новости"
-coverImage: "такси.jpg"
+slug: zhenskoe-taksi-mekhkarii-dlia-prekrasnogo-pola
+tags:
+- Грозный
+- Чечня
+- женщины
+- такси
+- Северный Кавказ
+title: Женское такси "Мехкарий" - для прекрасного пола
 ---
 
 В будущем планируется его расширить в масштабах СКФО, сообщила  инициатор проекта Мадина Цакаева.

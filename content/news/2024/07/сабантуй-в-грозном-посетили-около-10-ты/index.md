@@ -1,9 +1,16 @@
 ---
-title: "Сабантуй в Грозном посетили около 10 тысяч человек"
-slug: 'sabantui-v-groznom-posetili-okolo-10-tysiach-chelovek'
+categories:
+- Культура
 date: 2024-07-01
-categories: 
-  - "Главные новости"
+slug: sabantui-v-groznom-posetili-okolo-10-tysiach-chelovek
+tags:
+- Сабантуй
+- Грозный
+- Чечня
+- Татарстан
+- татарский народ
+- традиции
+title: Сабантуй в Грозном посетили около 10 тысяч человек
 ---
 
 20:55, 30 июня 2024г.

@@ -1,9 +1,15 @@
 ---
-title: "Обязанности по уходу за родовыми башнями в ЧР возложили на тейпы"
-slug: 'obiazannosti-po-ukhodu-za-rodovymi-bashniami-v-chr-na-teipy'
+categories:
+- История
 date: 2024-02-21
-tags: 
-  - "история"
+slug: obiazannosti-po-ukhodu-za-rodovymi-bashniami-v-chr-na-teipy
+tags:
+- Чечня
+- родовые башни
+- история
+- культура
+- Академия наук ЧР
+title: Обязанности по уходу за родовыми башнями в ЧР возложили на тейпы
 ---
 
 # 20 февраля 2024г.

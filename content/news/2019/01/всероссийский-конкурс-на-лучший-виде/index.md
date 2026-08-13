@@ -1,10 +1,14 @@
 ---
-title: "Конкурс видеороликов о Чечне продлен до 20 марта"
-slug: 'konkurs-videorolikov-o-chechne-prodlen-do-20-marta'
+categories:
+- Туризм
 date: 2019-01-13
-categories: 
-  - "Общие новости"
-coverImage: "конкурс-1.jpeg"
+slug: konkurs-videorolikov-o-chechne-prodlen-do-20-marta
+tags:
+- Чечня
+- туризм
+- конкурс видеороликов
+- Visit Chechnya
+title: Конкурс видеороликов о Чечне продлен до 20 марта
 ---
 
 _**Всероссийский конкурс на лучший видеоролик о Чеченской Республике – Welcome to the Chechen Republic («Добро пожаловать в Чеченскую Республику») продлевается в связи с несоответствием конкурсных работ положению.**_

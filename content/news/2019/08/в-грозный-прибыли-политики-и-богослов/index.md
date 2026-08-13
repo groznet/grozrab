@@ -1,10 +1,16 @@
 ---
-title: "В Грозный прибыли политики и богословы из разных стран мира"
-slug: 'v-groznyi-pribyli-politiki-i-bogoslovy-iz-raznykh-stran-mira'
+categories:
+- Политика
 date: 2019-08-23
-categories: 
-  - "Общие новости"
-coverImage: "самолет.jpg"
+slug: v-groznyi-pribyli-politiki-i-bogoslovy-iz-raznykh-stran-mira
+tags:
+- Грозный
+- Чечня
+- Ахмат-Хаджи Кадыров
+- Саудовская Аравия
+- Ирак
+- ОАЭ
+title: В Грозный прибыли политики и богословы из разных стран мира
 ---
 
 ## Завтра, 23 августа, они примут участие в мероприятиях, посвященных Дню рождения Первого Президента ЧР

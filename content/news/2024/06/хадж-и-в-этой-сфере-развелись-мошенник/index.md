@@ -1,7 +1,15 @@
 ---
-title: "ХАДЖ: И В ЭТОЙ СФЕРЕ РАЗВЕЛИСЬ МОШЕННИКИ"
-slug: 'khadzh-i-v-etoi-sfere-razvelis-moshenniki'
+categories:
+- Религия
 date: 2024-06-14
+slug: khadzh-i-v-etoi-sfere-razvelis-moshenniki
+tags:
+- хадж
+- Саудовская Аравия
+- паломники
+- мошенничество
+- виза
+title: 'ХАДЖ: И В ЭТОЙ СФЕРЕ РАЗВЕЛИСЬ МОШЕННИКИ'
 ---
 
 14.06.2024

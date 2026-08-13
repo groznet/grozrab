@@ -1,13 +1,16 @@
 ---
-title: "В Грозном установят памятник Герою Советского Союза Ханпаши Нурадилову"
-slug: 'v-groznom-ustanoviat-pamiatnik-geroiu-sovetskogo-soiuza'
+categories:
+- История
 date: 2018-02-27
-categories: 
-  - "Общие новости"
-coverImage: "img5.jpg"
+slug: v-groznom-ustanoviat-pamiatnik-geroiu-sovetskogo-soiuza
+tags:
+- Грозный
+- Чечня
+- Герой Советского Союза
+- Великая Отечественная война
+- памятник
+title: В Грозном установят памятник Герою Советского Союза Ханпаши Нурадилову
 ---
-
- 
 
 Об этом на своей странице в социальной сети  Mylistory сообщил мэр столицы Муслим Хучиев:
 

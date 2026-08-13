@@ -1,10 +1,16 @@
 ---
-title: "В космос впервые отправился корабль с гражданским экипажем"
-slug: 'v-kosmos-vpervye-otpravilsia-korabl-s-grazhdanskim-ekipazhem'
+categories:
+- Технологии
 date: 2021-09-16
-categories: 
-  - "Общие новости"
-coverImage: "космос.jpg"
+slug: v-kosmos-vpervye-otpravilsia-korabl-s-grazhdanskim-ekipazhem
+tags:
+- SpaceX
+- Falcon 9
+- Crew Dragon
+- космос
+- гражданский экипаж
+- мысе Канаверал
+title: В космос впервые отправился корабль с гражданским экипажем
 ---
 
 Американская компания SpaceX впервые осуществила запуск ракеты-носителя Falcon 9 с кораблем Crew Dragon, экипаж которого составляют исключительно гражданские лица, с космодрома на мысе Канаверал (штат Флорида, США). Трансляция ведется на сайте компании.

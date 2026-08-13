@@ -1,9 +1,14 @@
 ---
-title: "В ЧР проживают более 20 тысяч православных жителей"
-slug: 'v-chr-prozhivaiut-bolee-20-tysiach-pravoslavnykh-zhitelei'
+categories:
+- Религия
 date: 2024-02-13
-tags: 
-  - "общество"
+slug: v-chr-prozhivaiut-bolee-20-tysiach-pravoslavnykh-zhitelei
+tags:
+- Чеченская Республика
+- православные жители
+- Рамзан Кадыров
+- межнациональные отношения
+title: В ЧР проживают более 20 тысяч православных жителей
 ---
 
 _**![](https://ci21392.tw1.ru/wp-content/uploads/2024/02/в-чечне-20-тысяч-христиан-1-300x169.jpg)**_

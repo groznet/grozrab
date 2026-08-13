@@ -1,10 +1,15 @@
 ---
-title: "Седа Докудаева завоевала золото на первенстве мира по рукопашному бою"
-slug: 'seda-dokudaeva-zavoevala-zoloto-na-pervenstve-mira-po-boiu'
+categories:
+- Спорт
 date: 2019-08-31
-categories: 
-  - "Общие новости"
-coverImage: "бой.jpeg"
+slug: seda-dokudaeva-zavoevala-zoloto-na-pervenstve-mira-po-boiu
+tags:
+- Чечня
+- Алматы
+- рукопашный бой
+- первенство мира
+- спортсменка
+title: Седа Докудаева завоевала золото на первенстве мира по рукопашному бою
 ---
 
 На соревнованиях в казахском городе Алматы представительница Чечни выступала в весовой категории до 65 кг.

@@ -1,11 +1,14 @@
 ---
-title: "Победители конкурса \"Росмолодежь.Гранты\"  получили награды от ГГНТУ"
-slug: 'pobediteli-konkursa-rosmolodezh-granty-poluchili-nagrady-ot'
+categories:
+- Образование
 date: 2024-02-29
-categories: 
-  - "Главные новости"
-tags: 
-  - "наука"
+slug: pobediteli-konkursa-rosmolodezh-granty-poluchili-nagrady-ot
+tags:
+- Гранты
+- правовое осведомление
+- строительные отряды
+- студенческие проекты
+title: Победители конкурса "Росмолодежь.Гранты"  получили награды от ГГНТУ
 ---
 
 29 Февраля 2024 г.

@@ -1,9 +1,15 @@
 ---
-title: "В ЧР издадут книги об исторически значимых личностях и датах"
-slug: 'v-chr-izdadut-knigi-ob-istoricheski-znachimykh-lichnostiakh'
+categories:
+- Культура
 date: 2024-03-06
-tags: 
-  - "история"
+slug: v-chr-izdadut-knigi-ob-istoricheski-znachimykh-lichnostiakh
+tags:
+- Чечня
+- Союз писателей ЧР
+- Рамзан Кадыров
+- история
+- литература
+title: В ЧР издадут книги об исторически значимых личностях и датах
 ---
 
 06.03.2024 

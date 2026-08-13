@@ -1,9 +1,15 @@
 ---
-title: "Товары чеченского завода «Жайна» признаны лучшим продуктом в РФ"
-slug: 'tovary-chechenskogo-zavoda-zhaina-priznany-luchshim-v-rf'
+categories:
+- Сельское хозяйство
 date: 2024-02-11
-tags: 
-  - "общество"
+slug: tovary-chechenskogo-zavoda-zhaina-priznany-luchshim-v-rf
+tags:
+- Чечня
+- продукция питания
+- Международный конкурс
+- КФХ «Жайна»
+- сельское хозяйство
+title: Товары чеченского завода «Жайна» признаны лучшим продуктом в РФ
 ---
 
 ![](https://ci21392.tw1.ru/wp-content/uploads/2024/02/жайна-300x225.jpg)

@@ -1,9 +1,15 @@
 ---
-title: "Во Франции под отелем нашли остатки средневекового замка"
-slug: 'vo-frantsii-pod-otelem-nashli-ostatki-srednevekovogo-zamka'
+categories:
+- История
 date: 2024-04-05
-categories: 
-  - "Главные новости"
+slug: vo-frantsii-pod-otelem-nashli-ostatki-srednevekovogo-zamka
+tags:
+- XIV век
+- Средневековье
+- Франция
+- археология
+- замки
+title: Во Франции под отелем нашли остатки средневекового замка
 ---
 
 Его построили в XIV веке

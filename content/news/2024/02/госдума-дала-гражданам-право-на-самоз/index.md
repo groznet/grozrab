@@ -1,11 +1,16 @@
 ---
-title: "Госдума дала гражданам право на самозапрет кредитов и займов"
-slug: 'gosduma-dala-grazhdanam-pravo-na-samozapret-kreditov-i'
+categories:
+- Право
 date: 2024-02-20
-categories: 
-  - "Общие новости"
-tags: 
-  - "общество"
+slug: gosduma-dala-grazhdanam-pravo-na-samozapret-kreditov-i
+tags:
+- Госдума
+- кредитная история
+- потребительские кредиты
+- закон
+- МФЦ
+- госуслуги
+title: Госдума дала гражданам право на самозапрет кредитов и займов
 ---
 
 20.02.2024

@@ -1,10 +1,14 @@
 ---
-title: "Более 200 поджигателей сухой травы наказаны в ЧР"
-slug: 'bolee-200-podzhigatelei-sukhoi-travy-nakazany-v-chr'
+categories:
+- Экология
 date: 2018-08-04
-categories: 
-  - "Общие новости"
-coverImage: "пожар.jpg"
+slug: bolee-200-podzhigatelei-sukhoi-travy-nakazany-v-chr
+tags:
+- ЧР
+- пожарная безопасность
+- сухая трава
+- Госпожнадзор
+title: Более 200 поджигателей сухой травы наказаны в ЧР
 ---
 
 ## С начала года в республике 420 раз горела сухая растительность.

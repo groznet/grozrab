@@ -1,9 +1,16 @@
 ---
-title: "В Чечне становятся традицией экспедиции по историческим местам"
-slug: 'v-chechne-stanoviatsia-traditsiei-ekspeditsii-po-mestam'
+categories:
+- Культура
 date: 2024-04-21
-categories: 
-  - "Главные новости"
+slug: v-chechne-stanoviatsia-traditsiei-ekspeditsii-po-mestam
+tags:
+- Чечня
+- Аргунский музей-заповедник
+- культурное наследие
+- исторические места
+- образовательные программы
+- туризм
+title: В Чечне становятся традицией экспедиции по историческим местам
 ---
 
 #### 4 апреля 2024г.

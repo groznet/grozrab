@@ -1,9 +1,15 @@
 ---
-title: "Раскрыта уловка мошенников с кражей денег через экран смартфона"
-slug: 'raskryta-ulovka-moshennikov-s-krazhei-deneg-cherez-ekran'
+categories:
+- Технологии
 date: 2024-03-12
-categories: 
-  - "Главные новости"
+slug: raskryta-ulovka-moshennikov-s-krazhei-deneg-cherez-ekran
+tags:
+- кибербезопасность
+- мошенничество
+- смартфон
+- социальная инженерия
+- банк
+title: Раскрыта уловка мошенников с кражей денег через экран смартфона
 ---
 
 11 марта 2024г.

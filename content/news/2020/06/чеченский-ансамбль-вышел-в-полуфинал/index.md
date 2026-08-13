@@ -1,10 +1,13 @@
 ---
-title: "«Нохчо» - в полуфинале Всемирного фестиваля национальных культур"
-slug: 'nokhcho-v-polufinale-vsemirnogo-festivalia-natsionalnykh'
+categories:
+- Культура
 date: 2020-06-08
-categories: 
-  - "Общие новости"
-coverImage: "нохчо.jpg"
+slug: nokhcho-v-polufinale-vsemirnogo-festivalia-natsionalnykh
+tags:
+- Нохчо
+- Чечня
+- Всемирный фестиваль национальных культур
+title: «Нохчо» - в полуфинале Всемирного фестиваля национальных культур
 ---
 
 Государственный̆ фольклорный ансамбль песни и танца «Нохчо» вышел в полуфинал Всемирного фестиваля-конкурс национальных культур и искусства «WORLD FOLK VISION».

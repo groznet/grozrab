@@ -1,0 +1,2 @@
+2026-08-13 14:35:19,815 [ERROR] Validation failed for content/news/2019/01/ильяс-исмаилов-заслуги-журналистов-в/index.md: Contains blacklisted generic tag. Raw response: {'category': 'Общество', 'tags': ['Союз журналистов ЧР', 'Чечня', 'СМИ', 'День российской печати', 'информация']}
+2026-08-13 14:54:32,809 [ERROR] Validation failed for content/news/2019/10/в-чечне-реорганизовали-сми/index.md: Contains blacklisted generic tag. Raw response: {'category': 'Общество', 'tags': ['Чечня', 'СМИ', 'Грозный', 'реорганизация', 'информация']}

@@ -1,10 +1,14 @@
 ---
-title: "Ушел из жизни выдающийся ученый Сайд-Магомед Хасиев"
-slug: 'ushel-iz-zhizni-vydaiushchiisia-uchenyi-said-magomed-khasiev'
+categories:
+- Культура
 date: 2020-02-14
-categories: 
-  - "Общие новости"
-coverImage: "хасиев.jpg"
+slug: ushel-iz-zhizni-vydaiushchiisia-uchenyi-said-magomed-khasiev
+tags:
+- Чечня
+- этнограф
+- история
+- культура ЧР
+title: Ушел из жизни выдающийся ученый Сайд-Магомед Хасиев
 ---
 
 Ивестный этнограф, историк и достойный сын чеченского народа Сайд-Магомед Адамович Хасиев скончался 13 января на 78-м году жизни.

@@ -1,9 +1,15 @@
 ---
-title: "В Грозном пройдет выставка уральских мастеров"
-slug: 'v-groznom-proidet-vystavka-uralskikh-masterov'
+categories:
+- Культура
 date: 2024-01-27
-categories: 
-  - "Главные новости"
+slug: v-groznom-proidet-vystavka-uralskikh-masterov
+tags:
+- Грозный
+- Урал
+- Невьянская иконопись
+- выставка
+- промыслы
+title: В Грозном пройдет выставка уральских мастеров
 ---
 
 # 26 января 2024г.![](https://ci21392.tw1.ru/wp-content/uploads/2024/01/урал-300x180.jpg)

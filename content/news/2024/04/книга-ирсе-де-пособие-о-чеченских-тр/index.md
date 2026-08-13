@@ -1,9 +1,15 @@
 ---
-title: "Книга «Ирсе Де» - пособие о чеченских традициях"
-slug: 'kniga-irse-de-posobie-o-chechenskikh-traditsiiakh'
+categories:
+- Общество
 date: 2024-04-19
-categories: 
-  - "Главные новости"
+slug: kniga-irse-de-posobie-o-chechenskikh-traditsiiakh
+tags:
+- Чечня
+- чеченские традиции
+- свадебные традиции
+- обычаи
+- Грозный
+title: Книга «Ирсе Де» - пособие о чеченских традициях
 ---
 
 19.04.2024

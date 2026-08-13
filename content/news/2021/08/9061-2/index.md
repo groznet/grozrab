@@ -1,10 +1,14 @@
 ---
-title: "В ЧР создадут Терминологическую комиссию по чеченскому языку."
-slug: 'v-chr-sozdadut-terminologicheskuiu-komissiiu-po-chechenskomu'
+categories:
+- Культура
 date: 2021-08-27
-categories: 
-  - "Общие новости"
-coverImage: "ЯЗЫК.jpg"
+slug: v-chr-sozdadut-terminologicheskuiu-komissiiu-po-chechenskomu
+tags:
+- Чечня
+- чеченский язык
+- Академия наук ЧР
+- министерство образования и науки ЧР
+title: В ЧР создадут Терминологическую комиссию по чеченскому языку.
 ---
 
 Указ об этом подписал Глава региона Рамзан Кадыров. Документ опубликован на официальном интернет-портале правовой информации.

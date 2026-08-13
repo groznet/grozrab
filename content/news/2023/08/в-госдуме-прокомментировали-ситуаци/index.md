@@ -1,9 +1,15 @@
 ---
-title: "В Госдуме прокомментировали ситуацию со станцией \"Луна-25\""
-slug: 'v-gosdume-prokommentirovali-situatsiiu-so-stantsiei-luna-25'
+categories:
+- Космос
 date: 2023-08-22
-categories: 
-  - "Общие новости"
+slug: v-gosdume-prokommentirovali-situatsiiu-so-stantsiei-luna-25
+tags:
+- Роскосмос
+- Луна-25
+- Луна-26
+- Госдума
+- космическая станция
+title: В Госдуме прокомментировали ситуацию со станцией "Луна-25"
 ---
 
 ## Горелкин призвал учесть ошибки с "Луной-25" в работе над следующей станцией
