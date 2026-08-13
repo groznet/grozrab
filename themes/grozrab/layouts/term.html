@@ -21,13 +21,28 @@
         {{ range $paginator.Pages }}
           <article class="flex flex-col sm:flex-row gap-4 border-b border-gray-100 pb-6 last:border-0">
             
-            <!-- Dynamic Image Handling -->
-            {{ $img := .Resources.GetMatch "*.{jpg,jpeg,png,webp}" }}
+            {{/* Dynamic Remote/Local Image Selection */}}
             {{ $imgSrc := "" }}
-            {{ if $img }}
-                {{ $imgSrc = $img.RelPermalink }}
-            {{ else if .Params.image }}
-                {{ $imgSrc = .Params.image | relURL }}
+
+            {{/* 1. Try Remote gallery.json */}}
+            {{ $galleryJson := printf "%sgallery.json" .File.Dir }}
+            {{ if fileExists $galleryJson }}
+                {{ $gData := unmarshal (readFile $galleryJson) }}
+                {{ $imgSrc = $gData.featured_image }}
+            {{ end }}
+
+            {{/* 2. Fallback to Local Bundle if remote JSON isn't present */}}
+            {{ if not $imgSrc }}
+                {{ $featuredImg := .Resources.GetMatch "{featured,cover,main,index}*.{jpg,jpeg,png,webp,gif,avif,svg}" }}
+                {{ $anyImg := index (.Resources.ByType "image") 0 }}
+
+                {{ if $featuredImg }}
+                    {{ $imgSrc = $featuredImg.RelPermalink }}
+                {{ else if $anyImg }}
+                    {{ $imgSrc = $anyImg.RelPermalink }}
+                {{ else if .Params.image }}
+                    {{ $imgSrc = .Params.image | relURL }}
+                {{ end }}
             {{ end }}
             
             <div class="w-full sm:w-48 h-32 flex-shrink-0">

@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- Breadcrumbs & Meta -->
+<!-- Breadcrumbs -->
 <div class="flex flex-wrap items-center gap-2 text-xs text-gray-500 mb-4">
     <a href="/" class="hover:text-red-700">Главная</a>
     <span>&bull;</span>
@@ -19,9 +19,27 @@
 
 <article class="prose max-w-none">
     <!-- Title Structure -->
-    <h1 class="text-red-700 font-bold text-2xl leading-tight font-serif uppercase tracking-tight mb-4">
+    <h1 class="text-red-700 font-bold text-2xl leading-tight font-serif uppercase tracking-tight mb-3">
         {{ .Title }}
     </h1>
+
+    <!-- Article Meta Row (Category, Date, Author) -->
+    <div class="flex flex-wrap items-center gap-3 text-xs border-b border-gray-200 pb-3 mb-6 text-gray-600">
+        {{ with .Params.categories }}
+            <a href="{{ "categories/" | relLangURL }}{{ index . 0 | urlize }}/" class="bg-red-700 text-white font-bold px-2.5 py-0.5 rounded uppercase tracking-wider hover:bg-red-800 transition-colors">
+                {{ index . 0 }}
+            </a>
+        {{ end }}
+
+        <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-gray-500 font-medium">
+            {{ .Date.Format "02 января 2006" }}
+        </time>
+
+        {{ with .Params.author }}
+            <span class="text-gray-300">&bull;</span>
+            <span class="text-gray-600 font-medium">Автор: {{ . }}</span>
+        {{ end }}
+    </div>
 
     {{/* Load Remote Gallery metadata if available */}}
     {{ $galleryJson := printf "%sgallery.json" .File.Dir }}
@@ -65,6 +83,20 @@
     <div class="space-y-4 text-base leading-relaxed text-justify text-gray-900 font-normal">
         {{ .Content }}
     </div>
+
+    <!-- Tags Section -->
+    {{ with .Params.tags }}
+    <div class="mt-8 pt-4 border-t border-gray-200">
+        <span class="text-xs font-bold text-gray-500 uppercase tracking-wider block mb-2">Теги:</span>
+        <div class="flex flex-wrap gap-2">
+            {{ range . }}
+            <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}/" class="px-2.5 py-1 bg-gray-100 hover:bg-red-700 hover:text-white border border-gray-300 text-xs font-medium rounded text-gray-700 transition-colors">
+                #{{ . }}
+            </a>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
 
     <!-- Image Gallery Section -->
     {{ if $gData.images }}
